@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const server = axios.create({
-  baseURL: 'http://192.168.137.1:5000',
+  baseURL: import.meta.env.VITE_SERVER_HOST,
 })
 
 export default server
