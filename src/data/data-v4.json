@@ -1,0 +1,3210 @@
+{
+  "products": [
+    {
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "rating": 4.69,
+      "brand": "Apple",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/1/1.jpg",
+        "https://cdn.dummyjson.com/product-images/1/2.jpg",
+        "https://cdn.dummyjson.com/product-images/1/3.jpg",
+        "https://cdn.dummyjson.com/product-images/1/4.jpg",
+        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      ],
+      "discount": 12.96,
+      "subcategory": "techs",
+      "itemsAvaliable": 1670,
+      "salesCount": 1430,
+      "views": 1233,
+      "slug": "iphone-9"
+    },
+    {
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "rating": 4.44,
+      "brand": "Apple",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/2/1.jpg",
+        "https://cdn.dummyjson.com/product-images/2/2.jpg",
+        "https://cdn.dummyjson.com/product-images/2/3.jpg",
+        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+      ],
+      "discount": 17.94,
+      "subcategory": "techs",
+      "itemsAvaliable": 655,
+      "salesCount": 121,
+      "views": 15833,
+      "slug": "iphone-x"
+    },
+    {
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "rating": 4.09,
+      "brand": "Samsung",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"],
+      "discount": 15.46,
+      "subcategory": "techs",
+      "itemsAvaliable": 941,
+      "salesCount": 444,
+      "views": 18748,
+      "slug": "samsung-universe-9"
+    },
+    {
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "rating": 4.3,
+      "brand": "OPPO",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/4/1.jpg",
+        "https://cdn.dummyjson.com/product-images/4/2.jpg",
+        "https://cdn.dummyjson.com/product-images/4/3.jpg",
+        "https://cdn.dummyjson.com/product-images/4/4.jpg",
+        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+      ],
+      "discount": 17.91,
+      "subcategory": "techs",
+      "itemsAvaliable": 1672,
+      "salesCount": 1468,
+      "views": 8844,
+      "slug": "oppof19"
+    },
+    {
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "rating": 4.09,
+      "brand": "Huawei",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/5/1.jpg",
+        "https://cdn.dummyjson.com/product-images/5/2.jpg",
+        "https://cdn.dummyjson.com/product-images/5/3.jpg"
+      ],
+      "discount": 10.58,
+      "subcategory": "techs",
+      "itemsAvaliable": 35,
+      "salesCount": 20,
+      "views": 13848,
+      "slug": "huawei-p30"
+    },
+    {
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "rating": 4.57,
+      "brand": "Apple",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/6/1.png",
+        "https://cdn.dummyjson.com/product-images/6/2.jpg",
+        "https://cdn.dummyjson.com/product-images/6/3.png",
+        "https://cdn.dummyjson.com/product-images/6/4.jpg"
+      ],
+      "discount": 11.02,
+      "subcategory": "techs",
+      "itemsAvaliable": 2268,
+      "salesCount": 2268,
+      "views": 18573,
+      "slug": "macbook-pro"
+    },
+    {
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "rating": 4.25,
+      "brand": "Samsung",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/7/1.jpg",
+        "https://cdn.dummyjson.com/product-images/7/2.jpg",
+        "https://cdn.dummyjson.com/product-images/7/3.jpg",
+        "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+      ],
+      "discount": 4.15,
+      "subcategory": "techs",
+      "itemsAvaliable": 646,
+      "salesCount": 94,
+      "views": 15534,
+      "slug": "samsung-galaxy-book"
+    },
+    {
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "rating": 4.43,
+      "brand": "Microsoft Surface",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/8/1.jpg",
+        "https://cdn.dummyjson.com/product-images/8/2.jpg",
+        "https://cdn.dummyjson.com/product-images/8/3.jpg",
+        "https://cdn.dummyjson.com/product-images/8/4.jpg",
+        "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+      ],
+      "discount": 10.23,
+      "subcategory": "techs",
+      "itemsAvaliable": 2374,
+      "salesCount": 327,
+      "views": 4840,
+      "slug": "microsoft-surface-laptop-4"
+    },
+    {
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "rating": 4.54,
+      "brand": "Infinix",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/9/1.jpg",
+        "https://cdn.dummyjson.com/product-images/9/2.png",
+        "https://cdn.dummyjson.com/product-images/9/3.png",
+        "https://cdn.dummyjson.com/product-images/9/4.jpg",
+        "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+      ],
+      "discount": 11.83,
+      "subcategory": "techs",
+      "itemsAvaliable": 1396,
+      "salesCount": 645,
+      "views": 852,
+      "slug": "infinix-inbook"
+    },
+    {
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "rating": 4.43,
+      "brand": "HP Pavilion",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/10/1.jpg",
+        "https://cdn.dummyjson.com/product-images/10/2.jpg",
+        "https://cdn.dummyjson.com/product-images/10/3.jpg",
+        "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+      ],
+      "discount": 6.18,
+      "subcategory": "techs",
+      "itemsAvaliable": 2532,
+      "salesCount": 1234,
+      "views": 11024,
+      "slug": "hp-pavilion-15-dk1056wm"
+    },
+    {
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "rating": 4.26,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/11/1.jpg",
+        "https://cdn.dummyjson.com/product-images/11/2.jpg",
+        "https://cdn.dummyjson.com/product-images/11/3.jpg",
+        "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+      ],
+      "discount": 8.4,
+      "subcategory": "",
+      "itemsAvaliable": 445,
+      "salesCount": 46,
+      "views": 3312,
+      "slug": "perfume-oil"
+    },
+    {
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "rating": 4,
+      "brand": "Royal_Mirage",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/12/1.jpg",
+        "https://cdn.dummyjson.com/product-images/12/2.jpg",
+        "https://cdn.dummyjson.com/product-images/12/3.png",
+        "https://cdn.dummyjson.com/product-images/12/4.jpg",
+        "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+      ],
+      "discount": 15.66,
+      "subcategory": "",
+      "itemsAvaliable": 1321,
+      "salesCount": 174,
+      "views": 6138,
+      "slug": "brown-perfume"
+    },
+    {
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "rating": 4.59,
+      "brand": "Fog Scent Xpressio",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/13/1.jpg",
+        "https://cdn.dummyjson.com/product-images/13/2.png",
+        "https://cdn.dummyjson.com/product-images/13/3.jpg",
+        "https://cdn.dummyjson.com/product-images/13/4.jpg",
+        "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+      ],
+      "discount": 8.14,
+      "subcategory": "",
+      "itemsAvaliable": 1024,
+      "salesCount": 366,
+      "views": 18301,
+      "slug": "fog-scent-xpressio-perfume"
+    },
+    {
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "rating": 4.21,
+      "brand": "Al Munakh",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/14/1.jpg",
+        "https://cdn.dummyjson.com/product-images/14/2.jpg",
+        "https://cdn.dummyjson.com/product-images/14/3.jpg",
+        "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+      ],
+      "discount": 15.6,
+      "subcategory": "",
+      "itemsAvaliable": 315,
+      "salesCount": 47,
+      "views": 5869,
+      "slug": "non-alcoholic-concentrated-perfume-oil"
+    },
+    {
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "rating": 4.7,
+      "brand": "Lord - Al-Rehab",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/15/1.jpg",
+        "https://cdn.dummyjson.com/product-images/15/2.jpg",
+        "https://cdn.dummyjson.com/product-images/15/3.jpg",
+        "https://cdn.dummyjson.com/product-images/15/4.jpg",
+        "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+      ],
+      "discount": 10.99,
+      "subcategory": "",
+      "itemsAvaliable": 1029,
+      "salesCount": 332,
+      "views": 14528,
+      "slug": "eau-de-perfume-spray"
+    },
+    {
+      "title": "Hyaluronic Acid Serum",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "price": 19,
+      "rating": 4.83,
+      "brand": "L'Oreal Paris",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/16/1.png",
+        "https://cdn.dummyjson.com/product-images/16/2.webp",
+        "https://cdn.dummyjson.com/product-images/16/3.jpg",
+        "https://cdn.dummyjson.com/product-images/16/4.jpg",
+        "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+      ],
+      "discount": 13.31,
+      "subcategory": "",
+      "itemsAvaliable": 158,
+      "salesCount": 20,
+      "views": 4684,
+      "slug": "hyaluronic-acid-serum"
+    },
+    {
+      "title": "Tree Oil 30ml",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 12,
+      "rating": 4.52,
+      "brand": "Hemani Tea",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/17/1.jpg",
+        "https://cdn.dummyjson.com/product-images/17/2.jpg",
+        "https://cdn.dummyjson.com/product-images/17/3.jpg",
+        "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+      ],
+      "discount": 4.09,
+      "subcategory": "",
+      "itemsAvaliable": 1054,
+      "salesCount": 820,
+      "views": 3431,
+      "slug": "tree-oil-30ml"
+    },
+    {
+      "title": "Oil Free Moisturizer 100ml",
+      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+      "price": 40,
+      "rating": 4.56,
+      "brand": "Dermive",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/18/1.jpg",
+        "https://cdn.dummyjson.com/product-images/18/2.jpg",
+        "https://cdn.dummyjson.com/product-images/18/3.jpg",
+        "https://cdn.dummyjson.com/product-images/18/4.jpg",
+        "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+      ],
+      "discount": 13.1,
+      "subcategory": "",
+      "itemsAvaliable": 1493,
+      "salesCount": 260,
+      "views": 12566,
+      "slug": "oil-free-moisturizer-100ml"
+    },
+    {
+      "title": "Skin Beauty Serum.",
+      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+      "price": 46,
+      "rating": 4.42,
+      "brand": "ROREC White Rice",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/19/1.jpg",
+        "https://cdn.dummyjson.com/product-images/19/2.jpg",
+        "https://cdn.dummyjson.com/product-images/19/3.png",
+        "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
+      ],
+      "discount": 10.68,
+      "subcategory": "",
+      "itemsAvaliable": 1192,
+      "salesCount": 409,
+      "views": 4668,
+      "slug": "skin-beauty-serum"
+    },
+    {
+      "title": "Freckle Treatment Cream- 15gm",
+      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+      "price": 70,
+      "rating": 4.06,
+      "brand": "Fair & Clear",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/20/1.jpg",
+        "https://cdn.dummyjson.com/product-images/20/2.jpg",
+        "https://cdn.dummyjson.com/product-images/20/3.jpg",
+        "https://cdn.dummyjson.com/product-images/20/4.jpg",
+        "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
+      ],
+      "discount": 16.99,
+      "subcategory": "",
+      "itemsAvaliable": 776,
+      "salesCount": 776,
+      "views": 17222,
+      "slug": "freckle-treatment-cream-15gm"
+    },
+    {
+      "title": "- Daal Masoor 500 grams",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "rating": 4.44,
+      "brand": "Saaf & Khaas",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/21/1.png",
+        "https://cdn.dummyjson.com/product-images/21/2.jpg",
+        "https://cdn.dummyjson.com/product-images/21/3.jpg"
+      ],
+      "discount": 4.81,
+      "subcategory": "groceries",
+      "itemsAvaliable": 40,
+      "salesCount": 13,
+      "views": 6341,
+      "slug": "daal-masoor-500-grams"
+    },
+    {
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "rating": 4.57,
+      "brand": "Bake Parlor Big",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/22/1.jpg",
+        "https://cdn.dummyjson.com/product-images/22/2.jpg",
+        "https://cdn.dummyjson.com/product-images/22/3.jpg"
+      ],
+      "discount": 15.58,
+      "subcategory": "groceries",
+      "itemsAvaliable": 2042,
+      "salesCount": 337,
+      "views": 7083,
+      "slug": "elbow-macaroni-400-gm"
+    },
+    {
+      "title": "Orange Essence Food Flavou",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "rating": 4.85,
+      "brand": "Baking Food Items",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/23/1.jpg",
+        "https://cdn.dummyjson.com/product-images/23/2.jpg",
+        "https://cdn.dummyjson.com/product-images/23/3.jpg",
+        "https://cdn.dummyjson.com/product-images/23/4.jpg",
+        "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+      ],
+      "discount": 8.04,
+      "subcategory": "groceries",
+      "itemsAvaliable": 92,
+      "salesCount": 68,
+      "views": 2188,
+      "slug": "orange-essence-food-flavou"
+    },
+    {
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "rating": 4.94,
+      "brand": "fauji",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/24/1.jpg",
+        "https://cdn.dummyjson.com/product-images/24/2.jpg",
+        "https://cdn.dummyjson.com/product-images/24/3.jpg",
+        "https://cdn.dummyjson.com/product-images/24/4.jpg",
+        "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+      ],
+      "discount": 16.8,
+      "subcategory": "groceries",
+      "itemsAvaliable": 2707,
+      "salesCount": 885,
+      "views": 6576,
+      "slug": "cereals-muesli-fruit-nuts"
+    },
+    {
+      "title": "Gulab Powder 50 Gram",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "rating": 4.87,
+      "brand": "Dry Rose",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/25/1.png",
+        "https://cdn.dummyjson.com/product-images/25/2.jpg",
+        "https://cdn.dummyjson.com/product-images/25/3.png",
+        "https://cdn.dummyjson.com/product-images/25/4.jpg",
+        "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+      ],
+      "discount": 13.58,
+      "subcategory": "groceries",
+      "itemsAvaliable": 2020,
+      "salesCount": 294,
+      "views": 14984,
+      "slug": "gulab-powder-50-gram"
+    },
+    {
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "rating": 4.08,
+      "brand": "Boho Decor",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/26/1.jpg",
+        "https://cdn.dummyjson.com/product-images/26/2.jpg",
+        "https://cdn.dummyjson.com/product-images/26/3.jpg",
+        "https://cdn.dummyjson.com/product-images/26/4.jpg",
+        "https://cdn.dummyjson.com/product-images/26/5.jpg",
+        "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+      ],
+      "discount": 17.86,
+      "subcategory": "",
+      "itemsAvaliable": 1118,
+      "salesCount": 1047,
+      "views": 7891,
+      "slug": "plant-hanger-for-home"
+    },
+    {
+      "title": "Flying Wooden Bird",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "rating": 4.41,
+      "brand": "Flying Wooden",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/27/1.jpg",
+        "https://cdn.dummyjson.com/product-images/27/2.jpg",
+        "https://cdn.dummyjson.com/product-images/27/3.jpg",
+        "https://cdn.dummyjson.com/product-images/27/4.jpg",
+        "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
+      ],
+      "discount": 15.58,
+      "subcategory": "",
+      "itemsAvaliable": 884,
+      "salesCount": 747,
+      "views": 8161,
+      "slug": "flying-wooden-bird"
+    },
+    {
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "rating": 4.82,
+      "brand": "LED Lights",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/28/1.jpg",
+        "https://cdn.dummyjson.com/product-images/28/2.jpg",
+        "https://cdn.dummyjson.com/product-images/28/3.png",
+        "https://cdn.dummyjson.com/product-images/28/4.jpg",
+        "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
+      ],
+      "discount": 16.49,
+      "subcategory": "",
+      "itemsAvaliable": 21,
+      "salesCount": 11,
+      "views": 8533,
+      "slug": "3d-embellishment-art-lamp"
+    },
+    {
+      "title": "Handcraft Chinese style",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "price": 60,
+      "rating": 4.44,
+      "brand": "luxury palace",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/29/1.jpg",
+        "https://cdn.dummyjson.com/product-images/29/2.jpg",
+        "https://cdn.dummyjson.com/product-images/29/3.webp",
+        "https://cdn.dummyjson.com/product-images/29/4.webp",
+        "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
+      ],
+      "discount": 15.34,
+      "subcategory": "",
+      "itemsAvaliable": 146,
+      "salesCount": 100,
+      "views": 7551,
+      "slug": "handcraft-chinese-style"
+    },
+    {
+      "title": "Key Holder",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "rating": 4.92,
+      "brand": "Golden",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/30/1.jpg",
+        "https://cdn.dummyjson.com/product-images/30/2.jpg",
+        "https://cdn.dummyjson.com/product-images/30/3.jpg",
+        "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+      ],
+      "discount": 2.92,
+      "subcategory": "",
+      "itemsAvaliable": 953,
+      "salesCount": 895,
+      "views": 19877,
+      "slug": "key-holder"
+    },
+    {
+      "title": "Mornadi Velvet Bed",
+      "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+      "price": 40,
+      "rating": 4.16,
+      "brand": "Furniture Bed Set",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/31/1.jpg",
+        "https://cdn.dummyjson.com/product-images/31/2.jpg",
+        "https://cdn.dummyjson.com/product-images/31/3.jpg",
+        "https://cdn.dummyjson.com/product-images/31/4.jpg",
+        "https://cdn.dummyjson.com/product-images/31/thumbnail.jpg"
+      ],
+      "discount": 17,
+      "subcategory": "",
+      "itemsAvaliable": 35,
+      "salesCount": 8,
+      "views": 773,
+      "slug": "mornadi-velvet-bed"
+    },
+    {
+      "title": "Sofa for Coffe Cafe",
+      "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe",
+      "price": 50,
+      "rating": 4.74,
+      "brand": "Ratttan Outdoor",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/32/1.jpg",
+        "https://cdn.dummyjson.com/product-images/32/2.jpg",
+        "https://cdn.dummyjson.com/product-images/32/3.jpg",
+        "https://cdn.dummyjson.com/product-images/32/thumbnail.jpg"
+      ],
+      "discount": 15.59,
+      "subcategory": "",
+      "itemsAvaliable": 2602,
+      "salesCount": 1399,
+      "views": 5904,
+      "slug": "sofa-for-coffe-cafe"
+    },
+    {
+      "title": "3 Tier Corner Shelves",
+      "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+      "price": 700,
+      "rating": 4.31,
+      "brand": "Kitchen Shelf",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/33/1.jpg",
+        "https://cdn.dummyjson.com/product-images/33/2.jpg",
+        "https://cdn.dummyjson.com/product-images/33/3.jpg",
+        "https://cdn.dummyjson.com/product-images/33/4.jpg",
+        "https://cdn.dummyjson.com/product-images/33/thumbnail.jpg"
+      ],
+      "discount": 17,
+      "subcategory": "",
+      "itemsAvaliable": 2436,
+      "salesCount": 739,
+      "views": 5165,
+      "slug": "3-tier-corner-shelves"
+    },
+    {
+      "title": "Plastic Table",
+      "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+      "price": 50,
+      "rating": 4.01,
+      "brand": "Multi Purpose",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/34/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/34/1.jpg",
+        "https://cdn.dummyjson.com/product-images/34/2.jpg",
+        "https://cdn.dummyjson.com/product-images/34/3.jpg",
+        "https://cdn.dummyjson.com/product-images/34/4.jpg",
+        "https://cdn.dummyjson.com/product-images/34/thumbnail.jpg"
+      ],
+      "discount": 4,
+      "subcategory": "",
+      "itemsAvaliable": 2463,
+      "salesCount": 1728,
+      "views": 2785,
+      "slug": "plastic-table"
+    },
+    {
+      "title": "3 DOOR PORTABLE",
+      "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+      "price": 41,
+      "rating": 4.06,
+      "brand": "AmnaMart",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/35/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/35/1.jpg",
+        "https://cdn.dummyjson.com/product-images/35/2.jpg",
+        "https://cdn.dummyjson.com/product-images/35/3.jpg",
+        "https://cdn.dummyjson.com/product-images/35/4.jpg",
+        "https://cdn.dummyjson.com/product-images/35/thumbnail.jpg"
+      ],
+      "discount": 7.98,
+      "subcategory": "",
+      "itemsAvaliable": 500,
+      "salesCount": 69,
+      "views": 5489,
+      "slug": "3-door-portable"
+    },
+    {
+      "title": "Sleeve Shirt Womens",
+      "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+      "price": 90,
+      "rating": 4.26,
+      "brand": "Professional Wear",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/36/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/36/1.jpg",
+        "https://cdn.dummyjson.com/product-images/36/2.webp",
+        "https://cdn.dummyjson.com/product-images/36/3.webp",
+        "https://cdn.dummyjson.com/product-images/36/4.jpg",
+        "https://cdn.dummyjson.com/product-images/36/thumbnail.jpg"
+      ],
+      "discount": 10.89,
+      "subcategory": "",
+      "itemsAvaliable": 2221,
+      "salesCount": 315,
+      "views": 5415,
+      "slug": "sleeve-shirt-womens"
+    },
+    {
+      "title": "ank Tops for Womens/Girls",
+      "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS",
+      "price": 50,
+      "rating": 4.52,
+      "brand": "Soft Cotton",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/37/1.jpg",
+        "https://cdn.dummyjson.com/product-images/37/2.jpg",
+        "https://cdn.dummyjson.com/product-images/37/3.jpg",
+        "https://cdn.dummyjson.com/product-images/37/4.jpg",
+        "https://cdn.dummyjson.com/product-images/37/thumbnail.jpg"
+      ],
+      "discount": 12.05,
+      "subcategory": "",
+      "itemsAvaliable": 1329,
+      "salesCount": 1031,
+      "views": 7548,
+      "slug": "ank-tops-for-womensgirls"
+    },
+    {
+      "title": "sublimation plain kids tank",
+      "description": "sublimation plain kids tank tops wholesale",
+      "price": 100,
+      "rating": 4.8,
+      "brand": "Soft Cotton",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/38/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/38/1.png",
+        "https://cdn.dummyjson.com/product-images/38/2.jpg",
+        "https://cdn.dummyjson.com/product-images/38/3.jpg",
+        "https://cdn.dummyjson.com/product-images/38/4.jpg"
+      ],
+      "discount": 11.12,
+      "subcategory": "",
+      "itemsAvaliable": 814,
+      "salesCount": 814,
+      "views": 3773,
+      "slug": "sublimation-plain-kids-tank"
+    },
+    {
+      "title": "Women Sweaters Wool",
+      "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater",
+      "price": 600,
+      "rating": 4.55,
+      "brand": "Top Sweater",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/39/1.jpg",
+        "https://cdn.dummyjson.com/product-images/39/2.jpg",
+        "https://cdn.dummyjson.com/product-images/39/3.jpg",
+        "https://cdn.dummyjson.com/product-images/39/4.jpg",
+        "https://cdn.dummyjson.com/product-images/39/thumbnail.jpg"
+      ],
+      "discount": 17.2,
+      "subcategory": "",
+      "itemsAvaliable": 2700,
+      "salesCount": 520,
+      "views": 13014,
+      "slug": "women-sweaters-wool"
+    },
+    {
+      "title": "women winter clothes",
+      "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set",
+      "price": 57,
+      "rating": 4.91,
+      "brand": "Top Sweater",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/40/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/40/1.jpg",
+        "https://cdn.dummyjson.com/product-images/40/2.jpg"
+      ],
+      "discount": 13.39,
+      "subcategory": "",
+      "itemsAvaliable": 1370,
+      "salesCount": 1370,
+      "views": 7072,
+      "slug": "women-winter-clothes"
+    },
+    {
+      "title": "NIGHT SUIT",
+      "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+      "price": 55,
+      "rating": 4.65,
+      "brand": "RED MICKY MOUSE..",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/41/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/41/1.jpg",
+        "https://cdn.dummyjson.com/product-images/41/2.webp",
+        "https://cdn.dummyjson.com/product-images/41/3.jpg",
+        "https://cdn.dummyjson.com/product-images/41/4.jpg",
+        "https://cdn.dummyjson.com/product-images/41/thumbnail.webp"
+      ],
+      "discount": 15.05,
+      "subcategory": "",
+      "itemsAvaliable": 1828,
+      "salesCount": 1828,
+      "views": 935,
+      "slug": "night-suit"
+    },
+    {
+      "title": "Stiched Kurta plus trouser",
+      "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+      "price": 80,
+      "rating": 4.05,
+      "brand": "Digital Printed",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/42/1.png",
+        "https://cdn.dummyjson.com/product-images/42/2.png",
+        "https://cdn.dummyjson.com/product-images/42/3.png",
+        "https://cdn.dummyjson.com/product-images/42/4.jpg",
+        "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg"
+      ],
+      "discount": 15.37,
+      "subcategory": "",
+      "itemsAvaliable": 356,
+      "salesCount": 277,
+      "views": 6022,
+      "slug": "stiched-kurta-plus-trouser"
+    },
+    {
+      "title": "frock gold printed",
+      "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+      "price": 600,
+      "rating": 4.31,
+      "brand": "Ghazi Fabric",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/43/1.jpg",
+        "https://cdn.dummyjson.com/product-images/43/2.jpg",
+        "https://cdn.dummyjson.com/product-images/43/3.jpg",
+        "https://cdn.dummyjson.com/product-images/43/4.jpg",
+        "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg"
+      ],
+      "discount": 15.55,
+      "subcategory": "",
+      "itemsAvaliable": 2213,
+      "salesCount": 2194,
+      "views": 1835,
+      "slug": "frock-gold-printed"
+    },
+    {
+      "title": "Ladies Multicolored Dress",
+      "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+      "price": 79,
+      "rating": 4.03,
+      "brand": "Ghazi Fabric",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/44/1.jpg",
+        "https://cdn.dummyjson.com/product-images/44/2.jpg",
+        "https://cdn.dummyjson.com/product-images/44/3.jpg",
+        "https://cdn.dummyjson.com/product-images/44/4.jpg",
+        "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg"
+      ],
+      "discount": 16.88,
+      "subcategory": "",
+      "itemsAvaliable": 796,
+      "salesCount": 455,
+      "views": 16465,
+      "slug": "ladies-multicolored-dress"
+    },
+    {
+      "title": "Malai Maxi Dress",
+      "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+      "price": 50,
+      "rating": 4.67,
+      "brand": "IELGY",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/45/1.jpg",
+        "https://cdn.dummyjson.com/product-images/45/2.webp",
+        "https://cdn.dummyjson.com/product-images/45/3.jpg",
+        "https://cdn.dummyjson.com/product-images/45/4.jpg",
+        "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg"
+      ],
+      "discount": 5.07,
+      "subcategory": "",
+      "itemsAvaliable": 2658,
+      "salesCount": 2658,
+      "views": 7324,
+      "slug": "malai-maxi-dress"
+    },
+    {
+      "title": "women's shoes",
+      "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
+      "price": 40,
+      "rating": 4.14,
+      "brand": "IELGY fashion",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/46/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/46/1.webp",
+        "https://cdn.dummyjson.com/product-images/46/2.jpg",
+        "https://cdn.dummyjson.com/product-images/46/3.jpg",
+        "https://cdn.dummyjson.com/product-images/46/4.jpg",
+        "https://cdn.dummyjson.com/product-images/46/thumbnail.jpg"
+      ],
+      "discount": 16.96,
+      "subcategory": "",
+      "itemsAvaliable": 616,
+      "salesCount": 291,
+      "views": 5496,
+      "slug": "womens-shoes"
+    },
+    {
+      "title": "Sneaker shoes",
+      "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
+      "price": 120,
+      "rating": 4.19,
+      "brand": "Synthetic Leather",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/47/1.jpg",
+        "https://cdn.dummyjson.com/product-images/47/2.jpg",
+        "https://cdn.dummyjson.com/product-images/47/3.jpg",
+        "https://cdn.dummyjson.com/product-images/47/thumbnail.jpeg"
+      ],
+      "discount": 10.37,
+      "subcategory": "",
+      "itemsAvaliable": 929,
+      "salesCount": 929,
+      "views": 9999,
+      "slug": "sneaker-shoes"
+    },
+    {
+      "title": "Women Strip Heel",
+      "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+      "price": 40,
+      "rating": 4.02,
+      "brand": "Sandals Flip Flops",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/48/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/48/1.jpg",
+        "https://cdn.dummyjson.com/product-images/48/2.jpg",
+        "https://cdn.dummyjson.com/product-images/48/3.jpg",
+        "https://cdn.dummyjson.com/product-images/48/4.jpg",
+        "https://cdn.dummyjson.com/product-images/48/thumbnail.jpg"
+      ],
+      "discount": 10.83,
+      "subcategory": "",
+      "itemsAvaliable": 1861,
+      "salesCount": 535,
+      "views": 5855,
+      "slug": "women-strip-heel"
+    },
+    {
+      "title": "Chappals & Shoe Ladies Metallic",
+      "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+      "price": 23,
+      "rating": 4.72,
+      "brand": "Maasai Sandals",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/49/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/49/1.jpg",
+        "https://cdn.dummyjson.com/product-images/49/2.jpg",
+        "https://cdn.dummyjson.com/product-images/49/3.webp",
+        "https://cdn.dummyjson.com/product-images/49/thumbnail.jpg"
+      ],
+      "discount": 2.62,
+      "subcategory": "",
+      "itemsAvaliable": 2323,
+      "salesCount": 1281,
+      "views": 14318,
+      "slug": "chappals-shoe-ladies-metallic"
+    },
+    {
+      "title": "Women Shoes",
+      "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+      "price": 36,
+      "rating": 4.33,
+      "brand": "Arrivals Genuine",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/50/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/50/1.jpeg",
+        "https://cdn.dummyjson.com/product-images/50/2.jpg",
+        "https://cdn.dummyjson.com/product-images/50/3.jpg"
+      ],
+      "discount": 16.87,
+      "subcategory": "",
+      "itemsAvaliable": 2201,
+      "salesCount": 1335,
+      "views": 6673,
+      "slug": "women-shoes"
+    },
+    {
+      "title": "half sleeves T shirts",
+      "description": "Many store is creating new designs and trend every month and every year. Daraz.pk have a beautiful range of men fashion brands",
+      "price": 23,
+      "rating": 4.26,
+      "brand": "Vintage Apparel",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/51/1.png",
+        "https://cdn.dummyjson.com/product-images/51/2.jpg",
+        "https://cdn.dummyjson.com/product-images/51/3.jpg",
+        "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg"
+      ],
+      "discount": 12.76,
+      "subcategory": "",
+      "itemsAvaliable": 1396,
+      "salesCount": 1157,
+      "views": 9056,
+      "slug": "half-sleeves-t-shirts"
+    },
+    {
+      "title": "FREE FIRE T Shirt",
+      "description": "quality and professional print - It doesn't just look high quality, it is high quality.",
+      "price": 10,
+      "rating": 4.52,
+      "brand": "FREE FIRE",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/52/1.png",
+        "https://cdn.dummyjson.com/product-images/52/2.png",
+        "https://cdn.dummyjson.com/product-images/52/3.jpg",
+        "https://cdn.dummyjson.com/product-images/52/4.jpg",
+        "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg"
+      ],
+      "discount": 14.72,
+      "subcategory": "",
+      "itemsAvaliable": 765,
+      "salesCount": 187,
+      "views": 7208,
+      "slug": "free-fire-t-shirt"
+    },
+    {
+      "title": "printed high quality T shirts",
+      "description": "Brand: vintage Apparel ,Export quality",
+      "price": 35,
+      "rating": 4.89,
+      "brand": "Vintage Apparel",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/53/1.webp",
+        "https://cdn.dummyjson.com/product-images/53/2.jpg",
+        "https://cdn.dummyjson.com/product-images/53/3.jpg",
+        "https://cdn.dummyjson.com/product-images/53/4.jpg",
+        "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg"
+      ],
+      "discount": 7.54,
+      "subcategory": "",
+      "itemsAvaliable": 889,
+      "salesCount": 476,
+      "views": 1723,
+      "slug": "printed-high-quality-t-shirts"
+    },
+    {
+      "title": "Pubg Printed Graphic T-Shirt",
+      "description": "Product Description Features: 100% Ultra soft Polyester Jersey. Vibrant & colorful printing on front. Feels soft as cotton without ever cracking",
+      "price": 46,
+      "rating": 4.62,
+      "brand": "The Warehouse",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/54/1.jpg",
+        "https://cdn.dummyjson.com/product-images/54/2.jpg",
+        "https://cdn.dummyjson.com/product-images/54/3.jpg",
+        "https://cdn.dummyjson.com/product-images/54/4.jpg",
+        "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg"
+      ],
+      "discount": 16.44,
+      "subcategory": "",
+      "itemsAvaliable": 2325,
+      "salesCount": 1619,
+      "views": 17272,
+      "slug": "pubg-printed-graphic-t-shirt"
+    },
+    {
+      "title": "Money Heist Printed Summer T Shirts",
+      "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched",
+      "price": 66,
+      "rating": 4.9,
+      "brand": "The Warehouse",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/55/1.jpg",
+        "https://cdn.dummyjson.com/product-images/55/2.webp",
+        "https://cdn.dummyjson.com/product-images/55/3.jpg",
+        "https://cdn.dummyjson.com/product-images/55/4.jpg",
+        "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg"
+      ],
+      "discount": 15.97,
+      "subcategory": "",
+      "itemsAvaliable": 2609,
+      "salesCount": 2609,
+      "views": 15165,
+      "slug": "money-heist-printed-summer-t-shirts"
+    },
+    {
+      "title": "Sneakers Joggers Shoes",
+      "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+      "price": 40,
+      "rating": 4.38,
+      "brand": "Sneakers",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/56/1.jpg",
+        "https://cdn.dummyjson.com/product-images/56/2.jpg",
+        "https://cdn.dummyjson.com/product-images/56/3.jpg",
+        "https://cdn.dummyjson.com/product-images/56/4.jpg",
+        "https://cdn.dummyjson.com/product-images/56/5.jpg",
+        "https://cdn.dummyjson.com/product-images/56/thumbnail.jpg"
+      ],
+      "discount": 12.57,
+      "subcategory": "",
+      "itemsAvaliable": 180,
+      "salesCount": 89,
+      "views": 5730,
+      "slug": "sneakers-joggers-shoes"
+    },
+    {
+      "title": "Loafers for men",
+      "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+      "price": 47,
+      "rating": 4.91,
+      "brand": "Rubber",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/57/1.jpg",
+        "https://cdn.dummyjson.com/product-images/57/2.jpg",
+        "https://cdn.dummyjson.com/product-images/57/3.jpg",
+        "https://cdn.dummyjson.com/product-images/57/4.jpg",
+        "https://cdn.dummyjson.com/product-images/57/thumbnail.jpg"
+      ],
+      "discount": 10.91,
+      "subcategory": "",
+      "itemsAvaliable": 1983,
+      "salesCount": 1219,
+      "views": 1779,
+      "slug": "loafers-for-men"
+    },
+    {
+      "title": "formal offices shoes",
+      "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+      "price": 57,
+      "rating": 4.41,
+      "brand": "The Warehouse",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/58/1.jpg",
+        "https://cdn.dummyjson.com/product-images/58/2.jpg",
+        "https://cdn.dummyjson.com/product-images/58/3.jpg",
+        "https://cdn.dummyjson.com/product-images/58/4.jpg",
+        "https://cdn.dummyjson.com/product-images/58/thumbnail.jpg"
+      ],
+      "discount": 12,
+      "subcategory": "",
+      "itemsAvaliable": 2652,
+      "salesCount": 295,
+      "views": 12699,
+      "slug": "formal-offices-shoes"
+    },
+    {
+      "title": "Spring and summershoes",
+      "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+      "price": 20,
+      "rating": 4.33,
+      "brand": "Sneakers",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/59/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/59/1.jpg",
+        "https://cdn.dummyjson.com/product-images/59/2.jpg",
+        "https://cdn.dummyjson.com/product-images/59/3.jpg",
+        "https://cdn.dummyjson.com/product-images/59/4.jpg",
+        "https://cdn.dummyjson.com/product-images/59/thumbnail.jpg"
+      ],
+      "discount": 8.71,
+      "subcategory": "",
+      "itemsAvaliable": 2448,
+      "salesCount": 2448,
+      "views": 3893,
+      "slug": "spring-and-summershoes"
+    },
+    {
+      "title": "Stylish Casual Jeans Shoes",
+      "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+      "price": 58,
+      "rating": 4.55,
+      "brand": "Sneakers",
+      "category": "shoes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/60/1.jpg",
+        "https://cdn.dummyjson.com/product-images/60/2.jpg",
+        "https://cdn.dummyjson.com/product-images/60/3.jpg",
+        "https://cdn.dummyjson.com/product-images/60/thumbnail.jpg"
+      ],
+      "discount": 7.55,
+      "subcategory": "",
+      "itemsAvaliable": 1425,
+      "salesCount": 664,
+      "views": 11109,
+      "slug": "stylish-casual-jeans-shoes"
+    },
+    {
+      "title": "Leather Straps Wristwatch",
+      "description": "Style:Sport ,Clasp:Buckles ,Water Resistance Depth:3Bar",
+      "price": 120,
+      "rating": 4.63,
+      "brand": "Naviforce",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/61/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/61/1.jpg",
+        "https://cdn.dummyjson.com/product-images/61/2.png",
+        "https://cdn.dummyjson.com/product-images/61/3.jpg"
+      ],
+      "discount": 7.14,
+      "subcategory": "techs",
+      "itemsAvaliable": 694,
+      "salesCount": 430,
+      "views": 6396,
+      "slug": "leather-straps-wristwatch"
+    },
+    {
+      "title": "Waterproof Leather Brand Watch",
+      "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
+      "price": 46,
+      "rating": 4.05,
+      "brand": "SKMEI 9117",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/62/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/62/1.jpg",
+        "https://cdn.dummyjson.com/product-images/62/2.jpg"
+      ],
+      "discount": 3.15,
+      "subcategory": "techs",
+      "itemsAvaliable": 313,
+      "salesCount": 287,
+      "views": 15535,
+      "slug": "waterproof-leather-brand-watch"
+    },
+    {
+      "title": "Royal Blue Premium Watch",
+      "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch",
+      "price": 50,
+      "rating": 4.89,
+      "brand": "SKMEI 9117",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/63/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/63/1.jpg",
+        "https://cdn.dummyjson.com/product-images/63/2.jpg",
+        "https://cdn.dummyjson.com/product-images/63/3.png",
+        "https://cdn.dummyjson.com/product-images/63/4.jpeg"
+      ],
+      "discount": 2.56,
+      "subcategory": "techs",
+      "itemsAvaliable": 1358,
+      "salesCount": 423,
+      "views": 5207,
+      "slug": "royal-blue-premium-watch"
+    },
+    {
+      "title": "Leather Strap Skeleton Watch",
+      "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+      "price": 46,
+      "rating": 4.98,
+      "brand": "Strap Skeleton",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/64/1.jpg",
+        "https://cdn.dummyjson.com/product-images/64/2.webp",
+        "https://cdn.dummyjson.com/product-images/64/3.jpg",
+        "https://cdn.dummyjson.com/product-images/64/thumbnail.jpg"
+      ],
+      "discount": 10.2,
+      "subcategory": "techs",
+      "itemsAvaliable": 869,
+      "salesCount": 198,
+      "views": 1932,
+      "slug": "leather-strap-skeleton-watch"
+    },
+    {
+      "title": "Stainless Steel Wrist Watch",
+      "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
+      "price": 47,
+      "rating": 4.79,
+      "brand": "Stainless",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/65/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/65/1.jpg",
+        "https://cdn.dummyjson.com/product-images/65/2.webp",
+        "https://cdn.dummyjson.com/product-images/65/3.jpg",
+        "https://cdn.dummyjson.com/product-images/65/4.webp",
+        "https://cdn.dummyjson.com/product-images/65/thumbnail.webp"
+      ],
+      "discount": 17.79,
+      "subcategory": "techs",
+      "itemsAvaliable": 1057,
+      "salesCount": 1019,
+      "views": 659,
+      "slug": "stainless-steel-wrist-watch"
+    },
+    {
+      "title": "Steel Analog Couple Watches",
+      "description": "Elegant design, Stylish ,Unique & Trendy,Comfortable wear",
+      "price": 35,
+      "rating": 4.79,
+      "brand": "Eastern Watches",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/66/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/66/1.jpg",
+        "https://cdn.dummyjson.com/product-images/66/2.jpg",
+        "https://cdn.dummyjson.com/product-images/66/3.jpg",
+        "https://cdn.dummyjson.com/product-images/66/4.JPG",
+        "https://cdn.dummyjson.com/product-images/66/thumbnail.jpg"
+      ],
+      "discount": 3.23,
+      "subcategory": "techs",
+      "itemsAvaliable": 347,
+      "salesCount": 140,
+      "views": 330,
+      "slug": "steel-analog-couple-watches"
+    },
+    {
+      "title": "Fashion Magnetic Wrist Watch",
+      "description": "Buy this awesome  The product is originally manufactured by the company and it's a top selling product with a very reasonable",
+      "price": 60,
+      "rating": 4.03,
+      "brand": "Eastern Watches",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/67/1.jpg",
+        "https://cdn.dummyjson.com/product-images/67/2.jpg",
+        "https://cdn.dummyjson.com/product-images/67/3.jpg",
+        "https://cdn.dummyjson.com/product-images/67/4.jpg",
+        "https://cdn.dummyjson.com/product-images/67/thumbnail.jpg"
+      ],
+      "discount": 16.69,
+      "subcategory": "techs",
+      "itemsAvaliable": 794,
+      "salesCount": 346,
+      "views": 9074,
+      "slug": "fashion-magnetic-wrist-watch"
+    },
+    {
+      "title": "Stylish Luxury Digital Watch",
+      "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
+      "price": 57,
+      "rating": 4.55,
+      "brand": "Luxury Digital",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/68/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/68/1.jpg",
+        "https://cdn.dummyjson.com/product-images/68/2.jpg"
+      ],
+      "discount": 9.03,
+      "subcategory": "techs",
+      "itemsAvaliable": 957,
+      "salesCount": 184,
+      "views": 19145,
+      "slug": "stylish-luxury-digital-watch"
+    },
+    {
+      "title": "Golden Watch Pearls Bracelet Watch",
+      "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
+      "price": 47,
+      "rating": 4.77,
+      "brand": "Watch Pearls",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/69/1.jpg",
+        "https://cdn.dummyjson.com/product-images/69/2.jpg",
+        "https://cdn.dummyjson.com/product-images/69/3.webp",
+        "https://cdn.dummyjson.com/product-images/69/4.jpg",
+        "https://cdn.dummyjson.com/product-images/69/thumbnail.jpg"
+      ],
+      "discount": 17.55,
+      "subcategory": "techs",
+      "itemsAvaliable": 306,
+      "salesCount": 298,
+      "views": 9927,
+      "slug": "golden-watch-pearls-bracelet-watch"
+    },
+    {
+      "title": "Stainless Steel Women",
+      "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies",
+      "price": 35,
+      "rating": 4.08,
+      "brand": "Bracelet",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/70/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/70/1.jpg",
+        "https://cdn.dummyjson.com/product-images/70/2.jpg",
+        "https://cdn.dummyjson.com/product-images/70/thumbnail.jpg"
+      ],
+      "discount": 8.98,
+      "subcategory": "techs",
+      "itemsAvaliable": 1757,
+      "salesCount": 1422,
+      "views": 19906,
+      "slug": "stainless-steel-women"
+    },
+    {
+      "title": "Women Shoulder Bags",
+      "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+      "price": 46,
+      "rating": 4.71,
+      "brand": "LouisWill",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/71/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/71/1.jpg",
+        "https://cdn.dummyjson.com/product-images/71/2.jpg",
+        "https://cdn.dummyjson.com/product-images/71/3.webp",
+        "https://cdn.dummyjson.com/product-images/71/thumbnail.jpg"
+      ],
+      "discount": 14.65,
+      "subcategory": "",
+      "itemsAvaliable": 72,
+      "salesCount": 11,
+      "views": 2238,
+      "slug": "women-shoulder-bags"
+    },
+    {
+      "title": "Handbag For Girls",
+      "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+      "price": 23,
+      "rating": 4.91,
+      "brand": "LouisWill",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/72/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/72/1.jpg",
+        "https://cdn.dummyjson.com/product-images/72/2.png",
+        "https://cdn.dummyjson.com/product-images/72/3.webp",
+        "https://cdn.dummyjson.com/product-images/72/4.jpg",
+        "https://cdn.dummyjson.com/product-images/72/thumbnail.webp"
+      ],
+      "discount": 17.5,
+      "subcategory": "",
+      "itemsAvaliable": 1152,
+      "salesCount": 1006,
+      "views": 13669,
+      "slug": "handbag-for-girls"
+    },
+    {
+      "title": "Fancy hand clutch",
+      "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+      "price": 44,
+      "rating": 4.18,
+      "brand": "Bracelet",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/73/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/73/1.jpg",
+        "https://cdn.dummyjson.com/product-images/73/2.webp",
+        "https://cdn.dummyjson.com/product-images/73/3.jpg",
+        "https://cdn.dummyjson.com/product-images/73/thumbnail.jpg"
+      ],
+      "discount": 10.39,
+      "subcategory": "",
+      "itemsAvaliable": 2146,
+      "salesCount": 1773,
+      "views": 3074,
+      "slug": "fancy-hand-clutch"
+    },
+    {
+      "title": "Leather Hand Bag",
+      "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
+      "price": 57,
+      "rating": 4.01,
+      "brand": "Copenhagen Luxe",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/74/1.jpg",
+        "https://cdn.dummyjson.com/product-images/74/2.jpg",
+        "https://cdn.dummyjson.com/product-images/74/3.jpg",
+        "https://cdn.dummyjson.com/product-images/74/4.jpg",
+        "https://cdn.dummyjson.com/product-images/74/thumbnail.jpg"
+      ],
+      "discount": 11.19,
+      "subcategory": "",
+      "itemsAvaliable": 1479,
+      "salesCount": 1318,
+      "views": 17160,
+      "slug": "leather-hand-bag"
+    },
+    {
+      "title": "Seven Pocket Women Bag",
+      "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+      "price": 68,
+      "rating": 4.93,
+      "brand": "Steal Frame",
+      "category": "clothes",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/75/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/75/1.jpg",
+        "https://cdn.dummyjson.com/product-images/75/2.jpg",
+        "https://cdn.dummyjson.com/product-images/75/3.jpg",
+        "https://cdn.dummyjson.com/product-images/75/thumbnail.jpg"
+      ],
+      "discount": 14.87,
+      "subcategory": "",
+      "itemsAvaliable": 334,
+      "salesCount": 98,
+      "views": 13014,
+      "slug": "seven-pocket-women-bag"
+    },
+    {
+      "title": "Silver Ring Set Women",
+      "description": "Jewelry Type:RingsCertificate Type:NonePlating:Silver PlatedShapeattern:noneStyle:CLASSICReligious",
+      "price": 70,
+      "rating": 4.61,
+      "brand": "Darojay",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/76/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/76/1.jpg",
+        "https://cdn.dummyjson.com/product-images/76/2.jpg",
+        "https://cdn.dummyjson.com/product-images/76/thumbnail.jpg"
+      ],
+      "discount": 13.57,
+      "subcategory": "",
+      "itemsAvaliable": 747,
+      "salesCount": 724,
+      "views": 11281,
+      "slug": "silver-ring-set-women"
+    },
+    {
+      "title": "Rose Ring",
+      "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable",
+      "price": 100,
+      "rating": 4.21,
+      "brand": "Copenhagen Luxe",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/77/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/77/1.jpg",
+        "https://cdn.dummyjson.com/product-images/77/2.jpg",
+        "https://cdn.dummyjson.com/product-images/77/3.jpg",
+        "https://cdn.dummyjson.com/product-images/77/thumbnail.jpg"
+      ],
+      "discount": 3.22,
+      "subcategory": "",
+      "itemsAvaliable": 1658,
+      "salesCount": 1129,
+      "views": 9434,
+      "slug": "rose-ring"
+    },
+    {
+      "title": "Rhinestone Korean Style Open Rings",
+      "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
+      "price": 30,
+      "rating": 4.69,
+      "brand": "Fashion Jewellery",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/78/thumbnail.jpg",
+      "images": ["https://cdn.dummyjson.com/product-images/78/thumbnail.jpg"],
+      "discount": 8.02,
+      "subcategory": "",
+      "itemsAvaliable": 962,
+      "salesCount": 823,
+      "views": 7283,
+      "slug": "rhinestone-korean-style-open-rings"
+    },
+    {
+      "title": "Elegant Female Pearl Earrings",
+      "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+      "price": 30,
+      "rating": 4.74,
+      "brand": "Fashion Jewellery",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/79/thumbnail.jpg",
+      "images": ["https://cdn.dummyjson.com/product-images/79/1.jpg"],
+      "discount": 12.8,
+      "subcategory": "",
+      "itemsAvaliable": 2284,
+      "salesCount": 1000,
+      "views": 17458,
+      "slug": "elegant-female-pearl-earrings"
+    },
+    {
+      "title": "Chain Pin Tassel Earrings",
+      "description": "Pair Of Ear Cuff Butterfly Long Chain Pin Tassel Earrings - Silver ( Long Life Quality Product)",
+      "price": 45,
+      "rating": 4.59,
+      "brand": "Cuff Butterfly",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/80/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/80/1.jpg",
+        "https://cdn.dummyjson.com/product-images/80/2.jpg",
+        "https://cdn.dummyjson.com/product-images/80/3.png",
+        "https://cdn.dummyjson.com/product-images/80/4.jpg",
+        "https://cdn.dummyjson.com/product-images/80/thumbnail.jpg"
+      ],
+      "discount": 17.75,
+      "subcategory": "",
+      "itemsAvaliable": 1629,
+      "salesCount": 266,
+      "views": 17816,
+      "slug": "chain-pin-tassel-earrings"
+    },
+    {
+      "title": "Round Silver Frame Sun Glasses",
+      "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+      "price": 19,
+      "rating": 4.94,
+      "brand": "Designer Sun Glasses",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/81/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/81/1.jpg",
+        "https://cdn.dummyjson.com/product-images/81/2.jpg",
+        "https://cdn.dummyjson.com/product-images/81/3.jpg",
+        "https://cdn.dummyjson.com/product-images/81/4.webp",
+        "https://cdn.dummyjson.com/product-images/81/thumbnail.jpg"
+      ],
+      "discount": 10.1,
+      "subcategory": "",
+      "itemsAvaliable": 2216,
+      "salesCount": 801,
+      "views": 4715,
+      "slug": "round-silver-frame-sun-glasses"
+    },
+    {
+      "title": "Kabir Singh Square Sunglass",
+      "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+      "price": 50,
+      "rating": 4.62,
+      "brand": "Designer Sun Glasses",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/82/1.jpg",
+        "https://cdn.dummyjson.com/product-images/82/2.webp",
+        "https://cdn.dummyjson.com/product-images/82/3.jpg",
+        "https://cdn.dummyjson.com/product-images/82/4.jpg",
+        "https://cdn.dummyjson.com/product-images/82/thumbnail.jpg"
+      ],
+      "discount": 15.6,
+      "subcategory": "",
+      "itemsAvaliable": 2320,
+      "salesCount": 1867,
+      "views": 18550,
+      "slug": "kabir-singh-square-sunglass"
+    },
+    {
+      "title": "Wiley X Night Vision Yellow Glasses",
+      "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+      "price": 30,
+      "rating": 4.97,
+      "brand": "mastar watch",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/83/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/83/1.jpg",
+        "https://cdn.dummyjson.com/product-images/83/2.jpg",
+        "https://cdn.dummyjson.com/product-images/83/3.jpg",
+        "https://cdn.dummyjson.com/product-images/83/4.jpg",
+        "https://cdn.dummyjson.com/product-images/83/thumbnail.jpg"
+      ],
+      "discount": 6.33,
+      "subcategory": "",
+      "itemsAvaliable": 926,
+      "salesCount": 813,
+      "views": 5256,
+      "slug": "wiley-x-night-vision-yellow-glasses"
+    },
+    {
+      "title": "Square Sunglasses",
+      "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+      "price": 28,
+      "rating": 4.64,
+      "brand": "mastar watch",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/84/1.jpg",
+        "https://cdn.dummyjson.com/product-images/84/2.jpg",
+        "https://cdn.dummyjson.com/product-images/84/thumbnail.jpg"
+      ],
+      "discount": 13.89,
+      "subcategory": "",
+      "itemsAvaliable": 48,
+      "salesCount": 19,
+      "views": 14371,
+      "slug": "square-sunglasses"
+    },
+    {
+      "title": "LouisWill Men Sunglasses",
+      "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+      "price": 50,
+      "rating": 4.98,
+      "brand": "LouisWill",
+      "category": "accessories",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/85/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/85/1.jpg",
+        "https://cdn.dummyjson.com/product-images/85/2.jpg",
+        "https://cdn.dummyjson.com/product-images/85/thumbnail.jpg"
+      ],
+      "discount": 11.27,
+      "subcategory": "",
+      "itemsAvaliable": 1038,
+      "salesCount": 203,
+      "views": 4155,
+      "slug": "louiswill-men-sunglasses"
+    },
+    {
+      "title": "Bluetooth Aux",
+      "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+      "price": 25,
+      "rating": 4.57,
+      "brand": "Car Aux",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/86/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/86/1.jpg",
+        "https://cdn.dummyjson.com/product-images/86/2.webp",
+        "https://cdn.dummyjson.com/product-images/86/3.jpg",
+        "https://cdn.dummyjson.com/product-images/86/4.jpg",
+        "https://cdn.dummyjson.com/product-images/86/thumbnail.jpg"
+      ],
+      "discount": 10.56,
+      "subcategory": "techs",
+      "itemsAvaliable": 2046,
+      "salesCount": 893,
+      "views": 16013,
+      "slug": "bluetooth-aux"
+    },
+    {
+      "title": "t Temperature Controller Incubator Controller",
+      "description": "Both Heat and Cool Purpose, Temperature control range; -50 to +110, Temperature measurement accuracy; 0.1, Control accuracy; 0.1",
+      "price": 40,
+      "rating": 4.54,
+      "brand": "W1209 DC12V",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/87/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/87/1.jpg",
+        "https://cdn.dummyjson.com/product-images/87/2.jpg",
+        "https://cdn.dummyjson.com/product-images/87/3.jpg",
+        "https://cdn.dummyjson.com/product-images/87/4.jpg",
+        "https://cdn.dummyjson.com/product-images/87/thumbnail.jpg"
+      ],
+      "discount": 11.3,
+      "subcategory": "techs",
+      "itemsAvaliable": 38,
+      "salesCount": 23,
+      "views": 13579,
+      "slug": "t-temperature-controller-incubator-controller"
+    },
+    {
+      "title": "TC Reusable Silicone Magic Washing Gloves",
+      "description": "TC Reusable Silicone Magic Washing Gloves with Scrubber, Cleaning Brush Scrubber Gloves Heat Resistant Pair for Cleaning of Kitchen, Dishes, Vegetables and Fruits, Bathroom, Car Wash, Pet Care and Multipurpose",
+      "price": 29,
+      "rating": 4.98,
+      "brand": "TC Reusable",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/88/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/88/1.jpg",
+        "https://cdn.dummyjson.com/product-images/88/2.jpg",
+        "https://cdn.dummyjson.com/product-images/88/3.jpg",
+        "https://cdn.dummyjson.com/product-images/88/4.webp",
+        "https://cdn.dummyjson.com/product-images/88/thumbnail.jpg"
+      ],
+      "discount": 3.19,
+      "subcategory": "techs",
+      "itemsAvaliable": 694,
+      "salesCount": 180,
+      "views": 13429,
+      "slug": "tc-reusable-silicone-magic-washing-gloves"
+    },
+    {
+      "title": "Qualcomm original Car Charger",
+      "description": "best Quality CHarger , Highly Recommended to all best Quality CHarger , Highly Recommended to all",
+      "price": 40,
+      "rating": 4.2,
+      "brand": "TC Reusable",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/89/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/89/1.jpg",
+        "https://cdn.dummyjson.com/product-images/89/2.jpg",
+        "https://cdn.dummyjson.com/product-images/89/3.jpg",
+        "https://cdn.dummyjson.com/product-images/89/4.jpg",
+        "https://cdn.dummyjson.com/product-images/89/thumbnail.jpg"
+      ],
+      "discount": 17.53,
+      "subcategory": "techs",
+      "itemsAvaliable": 757,
+      "salesCount": 757,
+      "views": 16590,
+      "slug": "qualcomm-original-car-charger"
+    },
+    {
+      "title": "Cycle Bike Glow",
+      "description": "Universal fitment and easy to install no special wires, can be easily installed and removed. Fits most standard tyre air stem valves of road, mountain bicycles, motocycles and cars.Bright led will turn on w",
+      "price": 35,
+      "rating": 4.1,
+      "brand": "Neon LED Light",
+      "category": "techs",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/90/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/90/1.jpg",
+        "https://cdn.dummyjson.com/product-images/90/2.jpg",
+        "https://cdn.dummyjson.com/product-images/90/3.jpg",
+        "https://cdn.dummyjson.com/product-images/90/4.jpg",
+        "https://cdn.dummyjson.com/product-images/90/thumbnail.jpg"
+      ],
+      "discount": 11.08,
+      "subcategory": "techs",
+      "itemsAvaliable": 1840,
+      "salesCount": 260,
+      "views": 1611,
+      "slug": "cycle-bike-glow"
+    },
+    {
+      "title": "Black Motorbike",
+      "description": "Engine Type:Wet sump, Single Cylinder, Four Stroke, Two Valves, Air Cooled with SOHC (Single Over Head Cam) Chain Drive Bore & Stroke:47.0 x 49.5 MM",
+      "price": 569,
+      "rating": 4.04,
+      "brand": "METRO 70cc Motorcycle - MR70",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/91/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/91/1.jpg",
+        "https://cdn.dummyjson.com/product-images/91/2.jpg",
+        "https://cdn.dummyjson.com/product-images/91/3.jpg",
+        "https://cdn.dummyjson.com/product-images/91/4.jpg",
+        "https://cdn.dummyjson.com/product-images/91/thumbnail.jpg"
+      ],
+      "discount": 13.63,
+      "subcategory": "motorcycle",
+      "itemsAvaliable": 2205,
+      "salesCount": 821,
+      "views": 957,
+      "slug": "black-motorbike"
+    },
+    {
+      "title": "HOT SALE IN EUROPE electric racing motorcycle",
+      "description": "HOT SALE IN EUROPE electric racing motorcycle electric motorcycle for sale adult electric motorcycles",
+      "price": 920,
+      "rating": 4.19,
+      "brand": "BRAVE BULL",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/92/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/92/1.jpg",
+        "https://cdn.dummyjson.com/product-images/92/2.jpg",
+        "https://cdn.dummyjson.com/product-images/92/3.jpg",
+        "https://cdn.dummyjson.com/product-images/92/4.jpg"
+      ],
+      "discount": 14.4,
+      "subcategory": "motorcycle",
+      "itemsAvaliable": 2735,
+      "salesCount": 1962,
+      "views": 13044,
+      "slug": "hot-sale-in-europe-electric-racing-motorcycle"
+    },
+    {
+      "title": "Automatic Motor Gas Motorcycles",
+      "description": "150cc 4-Stroke Motorcycle Automatic Motor Gas Motorcycles Scooter motorcycles 150cc scooter",
+      "price": 1050,
+      "rating": 4.84,
+      "brand": "shock absorber",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/93/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/93/1.jpg",
+        "https://cdn.dummyjson.com/product-images/93/2.jpg",
+        "https://cdn.dummyjson.com/product-images/93/3.jpg",
+        "https://cdn.dummyjson.com/product-images/93/4.jpg",
+        "https://cdn.dummyjson.com/product-images/93/thumbnail.jpg"
+      ],
+      "discount": 3.34,
+      "subcategory": "motorcycle",
+      "itemsAvaliable": 597,
+      "salesCount": 528,
+      "views": 15957,
+      "slug": "automatic-motor-gas-motorcycles"
+    },
+    {
+      "title": "new arrivals Fashion motocross goggles",
+      "description": "new arrivals Fashion motocross goggles motorcycle motocross racing motorcycle",
+      "price": 900,
+      "rating": 4.06,
+      "brand": "JIEPOLLY",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/94/thumbnail.webp",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/94/1.webp",
+        "https://cdn.dummyjson.com/product-images/94/2.jpg",
+        "https://cdn.dummyjson.com/product-images/94/3.jpg",
+        "https://cdn.dummyjson.com/product-images/94/thumbnail.webp"
+      ],
+      "discount": 3.85,
+      "subcategory": "motorcycle",
+      "itemsAvaliable": 1139,
+      "salesCount": 446,
+      "views": 3160,
+      "slug": "new-arrivals-fashion-motocross-goggles"
+    },
+    {
+      "title": "Wholesale cargo lashing Belt",
+      "description": "Wholesale cargo lashing Belt Tie Down end Ratchet strap customized strap 25mm motorcycle 1500kgs with rubber handle",
+      "price": 930,
+      "rating": 4.21,
+      "brand": "Xiangle",
+      "category": "unclassified",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/95/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/95/1.jpg",
+        "https://cdn.dummyjson.com/product-images/95/2.jpg",
+        "https://cdn.dummyjson.com/product-images/95/3.jpg",
+        "https://cdn.dummyjson.com/product-images/95/4.jpg",
+        "https://cdn.dummyjson.com/product-images/95/thumbnail.jpg"
+      ],
+      "discount": 17.67,
+      "subcategory": "motorcycle",
+      "itemsAvaliable": 699,
+      "salesCount": 452,
+      "views": 18683,
+      "slug": "wholesale-cargo-lashing-belt"
+    },
+    {
+      "title": "lighting ceiling kitchen",
+      "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+      "price": 30,
+      "rating": 4.83,
+      "brand": "lightingbrilliance",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/96/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/96/1.jpg",
+        "https://cdn.dummyjson.com/product-images/96/2.jpg",
+        "https://cdn.dummyjson.com/product-images/96/3.jpg",
+        "https://cdn.dummyjson.com/product-images/96/4.jpg",
+        "https://cdn.dummyjson.com/product-images/96/thumbnail.jpg"
+      ],
+      "discount": 14.89,
+      "subcategory": "",
+      "itemsAvaliable": 64,
+      "salesCount": 45,
+      "views": 2371,
+      "slug": "lighting-ceiling-kitchen"
+    },
+    {
+      "title": "Metal Ceramic Flower",
+      "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
+      "price": 35,
+      "rating": 4.93,
+      "brand": "Ifei Home",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/97/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/97/1.jpg",
+        "https://cdn.dummyjson.com/product-images/97/2.jpg",
+        "https://cdn.dummyjson.com/product-images/97/3.jpg",
+        "https://cdn.dummyjson.com/product-images/97/4.webp",
+        "https://cdn.dummyjson.com/product-images/97/thumbnail.jpg"
+      ],
+      "discount": 10.94,
+      "subcategory": "",
+      "itemsAvaliable": 291,
+      "salesCount": 239,
+      "views": 17184,
+      "slug": "metal-ceramic-flower"
+    },
+    {
+      "title": "3 lights lndenpant kitchen islang",
+      "description": "3 lights lndenpant kitchen islang dining room pendant rice paper chandelier contemporary led pendant light modern chandelier",
+      "price": 34,
+      "rating": 4.99,
+      "brand": "DADAWU",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/98/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/98/1.jpg",
+        "https://cdn.dummyjson.com/product-images/98/2.jpg",
+        "https://cdn.dummyjson.com/product-images/98/3.jpg",
+        "https://cdn.dummyjson.com/product-images/98/4.jpg",
+        "https://cdn.dummyjson.com/product-images/98/thumbnail.jpg"
+      ],
+      "discount": 5.92,
+      "subcategory": "",
+      "itemsAvaliable": 1152,
+      "salesCount": 757,
+      "views": 12914,
+      "slug": "3-lights-lndenpant-kitchen-islang"
+    },
+    {
+      "title": "American Vintage Wood Pendant Light",
+      "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante",
+      "price": 46,
+      "rating": 4.32,
+      "brand": "Ifei Home",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/99/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/99/1.jpg",
+        "https://cdn.dummyjson.com/product-images/99/2.jpg",
+        "https://cdn.dummyjson.com/product-images/99/3.jpg",
+        "https://cdn.dummyjson.com/product-images/99/4.jpg",
+        "https://cdn.dummyjson.com/product-images/99/thumbnail.jpg"
+      ],
+      "discount": 8.84,
+      "subcategory": "",
+      "itemsAvaliable": 152,
+      "salesCount": 81,
+      "views": 18783,
+      "slug": "american-vintage-wood-pendant-light"
+    },
+    {
+      "title": "Crystal chandelier maria theresa for 12 light",
+      "description": "Crystal chandelier maria theresa for 12 light",
+      "price": 47,
+      "rating": 4.74,
+      "brand": "YIOSI",
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/100/thumbnail.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/100/1.jpg",
+        "https://cdn.dummyjson.com/product-images/100/2.jpg",
+        "https://cdn.dummyjson.com/product-images/100/3.jpg",
+        "https://cdn.dummyjson.com/product-images/100/thumbnail.jpg"
+      ],
+      "discount": 16,
+      "subcategory": "",
+      "itemsAvaliable": 2209,
+      "salesCount": 1624,
+      "views": 11247,
+      "slug": "crystal-chandelier-maria-theresa-for-12-light"
+    },
+    {
+      "title": "Ring",
+      "price": 50,
+      "description": "it's too expensive",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr7_5OxH2VsfBRDgDVTvzL0EwTL7jqEk_kAQ&usqp=CAU"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:30:47.000Z",
+      "category": "clothes",
+      "discount": 1.9,
+      "rating": 2.21,
+      "subcategory": "",
+      "itemsAvaliable": 2310,
+      "salesCount": 2230,
+      "views": 18142,
+      "slug": "ring"
+    },
+    {
+      "title": "Iphone",
+      "price": 50,
+      "description": "it's too expensive",
+      "images": [
+        "[\"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894",
+        "1000_QL80_.jpg\"]"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:31:36.000Z",
+      "category": "clothes",
+      "discount": 3.57,
+      "rating": 1.5,
+      "subcategory": "",
+      "itemsAvaliable": 102,
+      "salesCount": 14,
+      "views": 289,
+      "slug": "iphone"
+    },
+    {
+      "title": "Iphone13",
+      "price": 250,
+      "description": "it's too expensive",
+      "images": [
+        "[\"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894",
+        "1000_QL80_.jpg\"]"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:32:33.000Z",
+      "category": "clothes",
+      "discount": 4.49,
+      "rating": 2.47,
+      "subcategory": "",
+      "itemsAvaliable": 1614,
+      "salesCount": 1259,
+      "views": 18926,
+      "slug": "iphone13"
+    },
+    {
+      "title": "Iphone12",
+      "price": 250,
+      "description": "it's too expensive",
+      "images": [
+        "[\"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894",
+        "1000_QL80_.jpg\"]"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:32:47.000Z",
+      "category": "clothes",
+      "discount": 0.24,
+      "rating": 4.25,
+      "subcategory": "",
+      "itemsAvaliable": 1860,
+      "salesCount": 488,
+      "views": 2788,
+      "slug": "iphone12"
+    },
+    {
+      "title": "Iphone13pro",
+      "price": 950,
+      "description": "it's too expensive",
+      "images": [
+        "[\"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894",
+        "1000_QL80_.jpg\"]"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:32:58.000Z",
+      "category": "clothes",
+      "discount": 0.21,
+      "rating": 3.79,
+      "subcategory": "",
+      "itemsAvaliable": 74,
+      "salesCount": 63,
+      "views": 5486,
+      "slug": "iphone13pro"
+    },
+    {
+      "title": "Iphone14pro",
+      "price": 950,
+      "description": "it's too expensive",
+      "images": [
+        "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF8941000_QL80_.jpg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:33:06.000Z",
+      "category": "clothes",
+      "discount": 1.51,
+      "rating": 3.94,
+      "subcategory": "",
+      "itemsAvaliable": 484,
+      "salesCount": 484,
+      "views": 4691,
+      "slug": "iphone14pro"
+    },
+    {
+      "title": "Iphone15pro",
+      "price": 950,
+      "description": "it's too expensive",
+      "images": [
+        "https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF8941000_QL80_.jpg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-06T02:33:13.000Z",
+      "category": "clothes",
+      "discount": 1.75,
+      "rating": 2.66,
+      "subcategory": "",
+      "itemsAvaliable": 1115,
+      "salesCount": 501,
+      "views": 14721,
+      "slug": "iphone15pro"
+    },
+    {
+      "title": "Classic High-Waisted Athletic Shorts",
+      "price": 43,
+      "description": "Stay comfortable and stylish with our Classic High-Waisted Athletic Shorts. Designed for optimal movement and versatility, these shorts are a must-have for your workout wardrobe. Featuring a figure-flattering high waist, breathable fabric, and a secure fit that ensures they stay in place during any activity, these shorts are perfect for the gym, running, or even just casual wear.",
+      "images": [
+        "https://i.imgur.com/eGOUveI.jpeg",
+        "https://i.imgur.com/UcsGO7E.jpeg",
+        "https://i.imgur.com/NLn4e7S.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "clothes",
+      "discount": 0.89,
+      "rating": 0.55,
+      "subcategory": "",
+      "itemsAvaliable": 2765,
+      "salesCount": 2747,
+      "views": 6451,
+      "slug": "classic-high-waisted-athletic-shorts"
+    },
+    {
+      "title": "Classic Black T-Shirt",
+      "price": 35,
+      "description": "Elevate your everyday style with our Classic Black T-Shirt. This staple piece is crafted from soft, breathable cotton for all-day comfort. Its versatile design features a classic crew neck and short sleeves, making it perfect for layering or wearing on its own. Durable and easy to care for, it's sure to become a favorite in your wardrobe.",
+      "images": [
+        "https://i.imgur.com/9DqEOV5.jpeg",
+        "https://i.imgur.com/ae0AEYn.jpeg",
+        "https://i.imgur.com/mZ4rUjj.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "clothes",
+      "discount": 3.7,
+      "rating": 0.49,
+      "subcategory": "",
+      "itemsAvaliable": 1801,
+      "salesCount": 1743,
+      "views": 10163,
+      "slug": "classic-black-t-shirt"
+    },
+    {
+      "title": "Sleek White & Orange Wireless Gaming Controller",
+      "price": 69,
+      "description": "Elevate your gaming experience with this state-of-the-art wireless controller, featuring a crisp white base with vibrant orange accents. Designed for precision play, the ergonomic shape and responsive buttons provide maximum comfort and control for endless hours of gameplay. Compatible with multiple gaming platforms, this controller is a must-have for any serious gamer looking to enhance their setup.",
+      "images": [
+        "https://i.imgur.com/ZANVnHE.jpeg",
+        "https://i.imgur.com/Ro5z6Tn.jpeg",
+        "https://i.imgur.com/woA93Li.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 1.62,
+      "rating": 1.39,
+      "subcategory": "techs",
+      "itemsAvaliable": 1386,
+      "salesCount": 143,
+      "views": 9592,
+      "slug": "sleek-white-orange-wireless-gaming-controller"
+    },
+    {
+      "title": "Sleek Wireless Headphone & Inked Earbud Set",
+      "price": 44,
+      "description": "Experience the fusion of style and sound with this sophisticated audio set featuring a pair of sleek, white wireless headphones offering crystal-clear sound quality and over-ear comfort. The set also includes a set of durable earbuds, perfect for an on-the-go lifestyle. Elevate your music enjoyment with this versatile duo, designed to cater to all your listening needs.",
+      "images": [
+        "https://i.imgur.com/yVeIeDa.jpeg",
+        "https://i.imgur.com/jByJ4ih.jpeg",
+        "https://i.imgur.com/KXj6Tpb.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 0.63,
+      "rating": 0.98,
+      "subcategory": "techs",
+      "itemsAvaliable": 78,
+      "salesCount": 20,
+      "views": 8446,
+      "slug": "sleek-wireless-headphone-inked-earbud-set"
+    },
+    {
+      "title": "Sleek Comfort-Fit Over-Ear Headphones",
+      "price": 28,
+      "description": "Experience superior sound quality with our Sleek Comfort-Fit Over-Ear Headphones, designed for prolonged use with cushioned ear cups and an adjustable, padded headband. Ideal for immersive listening, whether you're at home, in the office, or on the move. Their durable construction and timeless design provide both aesthetically pleasing looks and long-lasting performance.",
+      "images": [
+        "https://i.imgur.com/SolkFEB.jpeg",
+        "https://i.imgur.com/KIGW49u.jpeg",
+        "https://i.imgur.com/mWwek7p.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 1.89,
+      "rating": 4.49,
+      "subcategory": "techs",
+      "itemsAvaliable": 603,
+      "salesCount": 410,
+      "views": 13973,
+      "slug": "sleek-comfort-fit-over-ear-headphones"
+    },
+    {
+      "title": "Efficient 2-Slice Toaster",
+      "price": 48,
+      "description": "Enhance your morning routine with our sleek 2-slice toaster, featuring adjustable browning controls and a removable crumb tray for easy cleaning. This compact and stylish appliance is perfect for any kitchen, ensuring your toast is always golden brown and delicious.",
+      "images": [
+        "https://i.imgur.com/keVCVIa.jpeg",
+        "https://i.imgur.com/afHY7v2.jpeg",
+        "https://i.imgur.com/yAOihUe.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 3.07,
+      "rating": 3.34,
+      "subcategory": "techs",
+      "itemsAvaliable": 241,
+      "salesCount": 226,
+      "views": 5026,
+      "slug": "efficient-2-slice-toaster"
+    },
+    {
+      "title": "Sleek Wireless Computer Mouse",
+      "price": 10,
+      "description": "Experience smooth and precise navigation with this modern wireless mouse, featuring a glossy finish and a comfortable ergonomic design. Its responsive tracking and easy-to-use interface make it the perfect accessory for any desktop or laptop setup. The stylish blue hue adds a splash of color to your workspace, while its compact size ensures it fits neatly in your bag for on-the-go productivity.",
+      "images": [
+        "https://i.imgur.com/w3Y8NwQ.jpeg",
+        "https://i.imgur.com/WJFOGIC.jpeg",
+        "https://i.imgur.com/dV4Nklf.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 4.4,
+      "rating": 0.13,
+      "subcategory": "techs",
+      "itemsAvaliable": 1545,
+      "salesCount": 1545,
+      "views": 6575,
+      "slug": "sleek-wireless-computer-mouse"
+    },
+    {
+      "title": "Sleek Modern Laptop with Ambient Lighting",
+      "price": 43,
+      "description": "Experience next-level computing with our ultra-slim laptop, featuring a stunning display illuminated by ambient lighting. This high-performance machine is perfect for both work and play, delivering powerful processing in a sleek, portable design. The vibrant colors add a touch of personality to your tech collection, making it as stylish as it is functional.",
+      "images": [
+        "https://i.imgur.com/OKn1KFI.jpeg",
+        "https://i.imgur.com/G4f21Ai.jpeg",
+        "https://i.imgur.com/Z9oKRVJ.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 0.77,
+      "rating": 3.13,
+      "subcategory": "techs",
+      "itemsAvaliable": 462,
+      "salesCount": 383,
+      "views": 15866,
+      "slug": "sleek-modern-laptop-with-ambient-lighting"
+    },
+    {
+      "title": "Sleek Modern Laptop for Professionals",
+      "price": 97,
+      "description": "Experience cutting-edge technology and elegant design with our latest laptop model. Perfect for professionals on-the-go, this high-performance laptop boasts a powerful processor, ample storage, and a long-lasting battery life, all encased in a lightweight, slim frame for ultimate portability. Shop now to elevate your work and play.",
+      "images": [
+        "https://i.imgur.com/ItHcq7o.jpeg",
+        "https://i.imgur.com/55GM3XZ.jpeg",
+        "https://i.imgur.com/tcNJxoW.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 4.71,
+      "rating": 0.72,
+      "subcategory": "techs",
+      "itemsAvaliable": 240,
+      "salesCount": 40,
+      "views": 15902,
+      "slug": "sleek-modern-laptop-for-professionals"
+    },
+    {
+      "title": "Stylish Red & Silver Over-Ear Headphones",
+      "price": 39,
+      "description": "Immerse yourself in superior sound quality with these sleek red and silver over-ear headphones. Designed for comfort and style, the headphones feature cushioned ear cups, an adjustable padded headband, and a detachable red cable for easy storage and portability. Perfect for music lovers and audiophiles who value both appearance and audio fidelity.",
+      "images": [
+        "https://i.imgur.com/YaSqa06.jpeg",
+        "https://i.imgur.com/isQAliJ.jpeg",
+        "https://i.imgur.com/5B8UQfh.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 1.3,
+      "rating": 0.1,
+      "subcategory": "techs",
+      "itemsAvaliable": 1875,
+      "salesCount": 389,
+      "views": 639,
+      "slug": "stylish-red-silver-over-ear-headphones"
+    },
+    {
+      "title": "Sleek Mirror Finish Phone Case",
+      "price": 27,
+      "description": "Enhance your smartphone's look with this ultra-sleek mirror finish phone case. Designed to offer style with protection, the case features a reflective surface that adds a touch of elegance while keeping your device safe from scratches and impacts. Perfect for those who love a minimalist and modern aesthetic.",
+      "images": [
+        "https://i.imgur.com/yb9UQKL.jpeg",
+        "https://i.imgur.com/m2owtQG.jpeg",
+        "https://i.imgur.com/bNiORct.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 4.14,
+      "rating": 2.42,
+      "subcategory": "techs",
+      "itemsAvaliable": 1321,
+      "salesCount": 1282,
+      "views": 11924,
+      "slug": "sleek-mirror-finish-phone-case"
+    },
+    {
+      "title": "Sleek Smartwatch with Vibrant Display",
+      "price": 16,
+      "description": "Experience modern timekeeping with our high-tech smartwatch, featuring a vivid touch screen display, customizable watch faces, and a comfortable blue silicone strap. This smartwatch keeps you connected with notifications and fitness tracking while showcasing exceptional style and versatility.",
+      "images": [
+        "https://i.imgur.com/LGk9Jn2.jpeg",
+        "https://i.imgur.com/1ttYWaI.jpeg",
+        "https://i.imgur.com/sPRWnJH.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "techs",
+      "discount": 2.41,
+      "rating": 3.12,
+      "subcategory": "techs",
+      "itemsAvaliable": 1594,
+      "salesCount": 273,
+      "views": 8468,
+      "slug": "sleek-smartwatch-with-vibrant-display"
+    },
+    {
+      "title": "Elegant Golden-Base Stone Top Dining Table",
+      "price": 66,
+      "description": "Elevate your dining space with this luxurious table, featuring a sturdy golden metal base with an intricate rod design that provides both stability and chic elegance. The smooth stone top in a sleek round shape offers a robust surface for your dining pleasure. Perfect for both everyday meals and special occasions, this table easily complements any modern or glam decor.",
+      "images": [
+        "https://i.imgur.com/NWIJKUj.jpeg",
+        "https://i.imgur.com/Jn1YSLk.jpeg",
+        "https://i.imgur.com/VNZRvx5.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "furniture",
+      "subcategory": "",
+      "discount": 1.8,
+      "rating": 0.48,
+      "itemsAvaliable": 2060,
+      "salesCount": 1492,
+      "views": 5334,
+      "slug": "elegant-golden-base-stone-top-dining-table"
+    },
+    {
+      "title": "Elegant Solid Wood Dining Table",
+      "price": 67,
+      "description": "Enhance your dining space with this sleek, contemporary dining table, crafted from high-quality solid wood with a warm finish. Its sturdy construction and minimalist design make it a perfect addition for any home looking for a touch of elegance. Accommodates up to six guests comfortably and includes a striking fruit bowl centerpiece. The overhead lighting is not included.",
+      "images": [
+        "https://i.imgur.com/4lTaHfF.jpeg",
+        "https://i.imgur.com/JktHE1C.jpeg",
+        "https://i.imgur.com/cQeXQMi.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "furniture",
+      "subcategory": "",
+      "discount": 2.38,
+      "rating": 3.27,
+      "itemsAvaliable": 425,
+      "salesCount": 425,
+      "views": 1552,
+      "slug": "elegant-solid-wood-dining-table"
+    },
+    {
+      "title": "Modern Minimalist Workstation Setup",
+      "price": 49,
+      "description": "Elevate your home office with our Modern Minimalist Workstation Setup, featuring a sleek wooden desk topped with an elegant computer, stylish adjustable wooden desk lamp, and complimentary accessories for a clean, productive workspace. This setup is perfect for professionals seeking a contemporary look that combines functionality with design.",
+      "images": [
+        "https://i.imgur.com/3oXNBst.jpeg",
+        "https://i.imgur.com/ErYYZnT.jpeg",
+        "https://i.imgur.com/boBPwYW.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "furniture",
+      "subcategory": "",
+      "discount": 0.83,
+      "rating": 1.03,
+      "itemsAvaliable": 2229,
+      "salesCount": 2229,
+      "views": 18587,
+      "slug": "modern-minimalist-workstation-setup"
+    },
+    {
+      "title": "Modern Ergonomic Office Chair",
+      "price": 71,
+      "description": "Elevate your office space with this sleek and comfortable Modern Ergonomic Office Chair. Designed to provide optimal support throughout the workday, it features an adjustable height mechanism, smooth-rolling casters for easy mobility, and a cushioned seat for extended comfort. The clean lines and minimalist white design make it a versatile addition to any contemporary workspace.",
+      "images": [
+        "https://i.imgur.com/3dU0m72.jpeg",
+        "https://i.imgur.com/zPU3EVa.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "furniture",
+      "subcategory": "",
+      "discount": 0.32,
+      "rating": 0.65,
+      "itemsAvaliable": 2192,
+      "salesCount": 2192,
+      "views": 3520,
+      "slug": "modern-ergonomic-office-chair"
+    },
+    {
+      "title": "Futuristic Holographic Soccer Cleats",
+      "price": 39,
+      "description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
+      "images": [
+        "https://i.imgur.com/qNOjJje.jpeg",
+        "https://i.imgur.com/NjfCFnu.jpeg",
+        "https://i.imgur.com/eYtvXS1.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "shoes",
+      "discount": 2.88,
+      "rating": 0.24,
+      "subcategory": "",
+      "itemsAvaliable": 1796,
+      "salesCount": 277,
+      "views": 19870,
+      "slug": "futuristic-holographic-soccer-cleats"
+    },
+    {
+      "title": "Rainbow Glitter High Heels",
+      "price": 39,
+      "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+      "images": [
+        "https://i.imgur.com/62gGzeF.jpeg",
+        "https://i.imgur.com/5MoPuFM.jpeg",
+        "https://i.imgur.com/sUVj7pK.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "shoes",
+      "discount": 3.08,
+      "rating": 2.9,
+      "subcategory": "",
+      "itemsAvaliable": 702,
+      "salesCount": 696,
+      "views": 6074,
+      "slug": "rainbow-glitter-high-heels"
+    },
+    {
+      "title": "Chic Summer Denim Espadrille Sandals",
+      "price": 33,
+      "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
+      "images": [
+        "https://i.imgur.com/9qrmE1b.jpeg",
+        "https://i.imgur.com/wqKxBVH.jpeg",
+        "https://i.imgur.com/sWSV6DK.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "shoes",
+      "discount": 3.75,
+      "rating": 0,
+      "subcategory": "",
+      "itemsAvaliable": 2653,
+      "salesCount": 574,
+      "views": 12746,
+      "slug": "chic-summer-denim-espadrille-sandals"
+    },
+    {
+      "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+      "price": 27,
+      "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
+      "images": [
+        "https://i.imgur.com/hKcMNJs.jpeg",
+        "https://i.imgur.com/NYToymX.jpeg",
+        "https://i.imgur.com/HiiapCt.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "shoes",
+      "discount": 2.83,
+      "rating": 3.77,
+      "subcategory": "",
+      "itemsAvaliable": 2202,
+      "salesCount": 1948,
+      "views": 11701,
+      "slug": "vibrant-runners-bold-orange-blue-sneakers"
+    },
+    {
+      "title": "Vibrant Pink Classic Sneakers",
+      "price": 84,
+      "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+      "images": [
+        "https://i.imgur.com/mcW42Gi.jpeg",
+        "https://i.imgur.com/mhn7qsF.jpeg",
+        "https://i.imgur.com/F8vhnFJ.jpeg"
+      ],
+      "creationAt": "2024-02-05T12:54:33.000Z",
+      "updatedAt": "2024-02-05T12:54:33.000Z",
+      "category": "shoes",
+      "discount": 4.77,
+      "rating": 0.39,
+      "subcategory": "",
+      "itemsAvaliable": 1384,
+      "salesCount": 892,
+      "views": 5807,
+      "slug": "vibrant-pink-classic-sneakers"
+    },
+    {
+      "title": "Iphone 14",
+      "price": 200,
+      "description": "it's too expensive",
+      "images": [
+        "[\"https://m.media-amazon.com/images/I/61bK6PMOC3L._AC_UF894",
+        "1000_QL80_.jpg\"]"
+      ],
+      "creationAt": "2024-02-06T02:30:40.000Z",
+      "updatedAt": "2024-02-06T02:30:40.000Z",
+      "category": "clothes",
+      "discount": 3.53,
+      "rating": 0.18,
+      "subcategory": "",
+      "itemsAvaliable": 1936,
+      "salesCount": 583,
+      "views": 11654,
+      "slug": "iphone-14-129"
+    },
+    {
+      "slug": "homepod-mini",
+      "description": "<ul><li>HomePod mini empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.43,
+      "price": 1506,
+      "images": [
+        "https://api.fakestorejson.com/images/products/homepod-mini/avatar.jpeg"
+      ],
+      "title": "HomePod mini",
+      "rating": 3.19,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 188,
+      "salesCount": 188,
+      "views": 11689
+    },
+    {
+      "slug": "homepod",
+      "description": "<ul><li>HomePod empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 0.07,
+      "price": 1738,
+      "images": [
+        "https://api.fakestorejson.com/images/products/homepod/avatar.jpeg"
+      ],
+      "title": "HomePod",
+      "rating": 2.98,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 430,
+      "salesCount": 329,
+      "views": 3091
+    },
+    {
+      "slug": "airpods-max",
+      "description": "<ul><li>AirPods Max empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.11,
+      "price": 1118,
+      "images": [
+        "https://api.fakestorejson.com/images/products/airpods/headphones/airpods-max/avatar.jpeg"
+      ],
+      "title": "AirPods Max",
+      "rating": 0.11,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 164,
+      "salesCount": 127,
+      "views": 2179
+    },
+    {
+      "slug": "airpods-2nd-generation",
+      "description": "<ul><li>AirPods (2nd generation) empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.78,
+      "price": 1631,
+      "images": [
+        "https://api.fakestorejson.com/images/products/airpods/headphones/airpods-2nd/avatar.jpeg"
+      ],
+      "title": "AirPods (2nd generation)",
+      "rating": 4.56,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1993,
+      "salesCount": 1645,
+      "views": 19463
+    },
+    {
+      "slug": "airpods-3rd-generation-with-magsafe-charging-case",
+      "description": "<ul><li>AirPods (3rd generation) with MagSafe Charging Case empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.69,
+      "price": 1030,
+      "images": [
+        "https://api.fakestorejson.com/images/products/airpods/headphones/airpods-3rd/avatar.jpeg"
+      ],
+      "title": "AirPods (3rd generation) with MagSafe Charging Case",
+      "rating": 4.96,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1163,
+      "salesCount": 561,
+      "views": 15464
+    },
+    {
+      "slug": "airpods-pro-2nd-generation-with-magsafe-charging-case-usb-c",
+      "description": "<ul><li>AirPods Pro (2nd generation) with MagSafe Charging Case (USB-C) empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 0.83,
+      "price": 1822,
+      "images": [
+        "https://api.fakestorejson.com/images/products/airpods/headphones/airpods-pro/avatar.jpeg"
+      ],
+      "title": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB-C)",
+      "rating": 3.42,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1228,
+      "salesCount": 674,
+      "views": 18277
+    },
+    {
+      "slug": "apple-watch-herms",
+      "description": "<ul><li>Apple Watch Hermès empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.12,
+      "price": 1059,
+      "images": [
+        "https://api.fakestorejson.com/images/products/appl-watch/hermes/avatar.jpeg"
+      ],
+      "title": "Apple Watch Hermès",
+      "rating": 2.91,
+      "category": "shoes",
+      "subcategory": "",
+      "itemsAvaliable": 586,
+      "salesCount": 303,
+      "views": 12145
+    },
+    {
+      "slug": "apple-watch-se",
+      "description": "<ul><li>Apple Watch SE empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 2.39,
+      "price": 956,
+      "images": [
+        "https://api.fakestorejson.com/images/products/appl-watch/se/avatar.jpeg"
+      ],
+      "title": "Apple Watch SE",
+      "rating": 3.72,
+      "category": "shoes",
+      "subcategory": "",
+      "itemsAvaliable": 446,
+      "salesCount": 90,
+      "views": 13113
+    },
+    {
+      "slug": "apple-watch-ultra-2",
+      "description": "<ul><li>Apple Watch Ultra 2 empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 0.01,
+      "price": 1703,
+      "images": [
+        "https://api.fakestorejson.com/images/products/appl-watch/ultra2/avatar.jpeg"
+      ],
+      "title": "Apple Watch Ultra 2",
+      "rating": 0.31,
+      "category": "shoes",
+      "subcategory": "",
+      "itemsAvaliable": 87,
+      "salesCount": 72,
+      "views": 5357
+    },
+    {
+      "slug": "apple-watch-series-9",
+      "description": "<ul><li>Apple Watch Series 9 empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.83,
+      "price": 1815,
+      "images": [
+        "https://api.fakestorejson.com/images/products/appl-watch/series9/avatar.jpeg"
+      ],
+      "title": "Apple Watch Series 9",
+      "rating": 4.04,
+      "category": "shoes",
+      "subcategory": "",
+      "itemsAvaliable": 2743,
+      "salesCount": 574,
+      "views": 10480
+    },
+    {
+      "slug": "iphone-se",
+      "description": "<ul><li>iPhone SE empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.08,
+      "price": 1253,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone-se/avatar.jpeg"
+      ],
+      "title": "iPhone SE",
+      "rating": 2,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 318,
+      "salesCount": 136,
+      "views": 5403
+    },
+    {
+      "slug": "iphone-13",
+      "description": "<ul><li>iPhone 13 empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.04,
+      "price": 916,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone13/avatar.jpeg"
+      ],
+      "title": "iPhone 13",
+      "rating": 4.05,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1978,
+      "salesCount": 1978,
+      "views": 13365
+    },
+    {
+      "slug": "iphone-14-plus",
+      "description": "<ul><li>iPhone 14 Plus empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 2.76,
+      "price": 1378,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone14/avatar.jpeg"
+      ],
+      "title": "iPhone 14 Plus",
+      "rating": 2.74,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 490,
+      "salesCount": 268,
+      "views": 9659
+    },
+    {
+      "slug": "iphone-14-143",
+      "description": "<ul><li>iPhone 14 empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.93,
+      "price": 1776,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone14/avatar.jpeg"
+      ],
+      "title": "iPhone 14",
+      "rating": 1.94,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1689,
+      "salesCount": 532,
+      "views": 3403
+    },
+    {
+      "slug": "iphone-15-plus",
+      "description": "<ul><li>iPhone 15 Plus empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.09,
+      "price": 1291,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone15-plus/avatar.jpeg"
+      ],
+      "title": "iPhone 15 Plus",
+      "rating": 1.72,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1658,
+      "salesCount": 1658,
+      "views": 19274
+    },
+    {
+      "slug": "iphone-15",
+      "description": "<ul><li>iPhone 15 empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.37,
+      "price": 1317,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone15/avatar.jpeg"
+      ],
+      "title": "iPhone 15",
+      "rating": 1.63,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 2235,
+      "salesCount": 2235,
+      "views": 14055
+    },
+    {
+      "slug": "iphone-15-pro-max",
+      "description": "<ul><li>iPhone 15 Pro Max empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 0.11,
+      "price": 1607,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone15-pro-max/avatar.jpeg"
+      ],
+      "title": "iPhone 15 Pro Max",
+      "rating": 3.32,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1326,
+      "salesCount": 1187,
+      "views": 6529
+    },
+    {
+      "slug": "iphone-15-pro",
+      "description": "<ul><li>iPhone 15 Pro empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.23,
+      "price": 1395,
+      "images": [
+        "https://api.fakestorejson.com/images/products/iphone/iphone15-pro/avatar.jpeg"
+      ],
+      "title": "iPhone 15 Pro",
+      "rating": 3.45,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 887,
+      "salesCount": 304,
+      "views": 17720
+    },
+    {
+      "slug": "ipad-mini",
+      "description": "<ul><li>iPad mini empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 0.41,
+      "price": 1232,
+      "images": [
+        "https://api.fakestorejson.com/images/products/ipad/ipad-mini/avatar.png"
+      ],
+      "title": "iPad mini",
+      "rating": 1.67,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1077,
+      "salesCount": 432,
+      "views": 6241
+    },
+    {
+      "slug": "ipad",
+      "description": "<ul><li>iPad empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.82,
+      "price": 927,
+      "images": [
+        "https://api.fakestorejson.com/images/products/ipad/ipad/avatar.png"
+      ],
+      "title": "iPad",
+      "rating": 3.24,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 1229,
+      "salesCount": 816,
+      "views": 12189
+    },
+    {
+      "slug": "ipad-air",
+      "description": "<ul><li>iPad Air empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.03,
+      "price": 866,
+      "images": [
+        "https://api.fakestorejson.com/images/products/ipad/ipad-air/avatar.png"
+      ],
+      "title": "iPad Air",
+      "rating": 3.84,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 877,
+      "salesCount": 559,
+      "views": 6316
+    },
+    {
+      "slug": "ipad-pro",
+      "description": "<ul><li>iPad Pro empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.36,
+      "price": 1169,
+      "images": [
+        "https://api.fakestorejson.com/images/products/ipad/ipad-pro/avatar.png"
+      ],
+      "title": "iPad Pro",
+      "rating": 4.76,
+      "category": "techs",
+      "subcategory": "techs",
+      "itemsAvaliable": 2720,
+      "salesCount": 1032,
+      "views": 4132
+    },
+    {
+      "slug": "pro-display-xdr",
+      "description": "<ul><li>Pro Display XDR empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 2.08,
+      "price": 1666,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/proxdr/avatar.jpeg"
+      ],
+      "title": "Pro Display XDR",
+      "rating": 4.91,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 1819,
+      "salesCount": 412,
+      "views": 3940
+    },
+    {
+      "slug": "mac-pro",
+      "description": "<ul><li>Mac pro empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.98,
+      "price": 1908,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/mac-pro/avatar.jpeg"
+      ],
+      "title": "Mac pro",
+      "rating": 3.46,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 1169,
+      "salesCount": 892,
+      "views": 19735
+    },
+    {
+      "slug": "studio-display",
+      "description": "<ul><li>Studio display empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.73,
+      "price": 1642,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/studio-display/avatar.jpeg"
+      ],
+      "title": "Studio display",
+      "rating": 0.71,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 1514,
+      "salesCount": 1514,
+      "views": 12367
+    },
+    {
+      "slug": "mac-studio",
+      "description": "<ul><li>Mac studio empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.51,
+      "price": 1306,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/mac-studio/avatar.jpeg"
+      ],
+      "title": "Mac studio",
+      "rating": 3.57,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 918,
+      "salesCount": 553,
+      "views": 6415
+    },
+    {
+      "slug": "mac-mini",
+      "description": "<ul><li>Mac mini empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 2.88,
+      "price": 1482,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/mac-mini/avatar.jpeg"
+      ],
+      "title": "Mac mini",
+      "rating": 1.52,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 711,
+      "salesCount": 241,
+      "views": 9762
+    },
+    {
+      "slug": "imac",
+      "description": "<ul><li>iMac empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.2,
+      "price": 1196,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/imac/avatar.jpeg"
+      ],
+      "title": "iMac",
+      "rating": 1.99,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 479,
+      "salesCount": 57,
+      "views": 14448
+    },
+    {
+      "slug": "macbook-pro-14-inch",
+      "description": "<ul><li>MacBook Pro 14-inch empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 3.68,
+      "price": 1186,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/pro-14/avatar.jpeg"
+      ],
+      "title": "MacBook Pro 14-inch",
+      "rating": 2.06,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 2028,
+      "salesCount": 1569,
+      "views": 3762
+    },
+    {
+      "slug": "macbook-air-13-inch-with-m2-chip",
+      "description": "<ul><li>MacBook Air 13-inch with M2 chip empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 1.52,
+      "price": 1762,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/air-13-m2/avatar.jpeg"
+      ],
+      "title": "MacBook Air 13-inch with M2 chip",
+      "rating": 3.23,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 226,
+      "salesCount": 195,
+      "views": 11034
+    },
+    {
+      "slug": "macbook-air-13-inch-with-m1-chip",
+      "description": "<ul><li>MacBook Air 13-inch with M1 chip empowers you to take on the most demanding projects</li><li>Go all day with up to 22 hours of battery life</li><li>Liquid Retina XDR display is the best ever in a laptop, with Extreme Dynamic Range, incredible contrast, and true-to-life colors</li></ul>",
+      "discount": 4.52,
+      "price": 1613,
+      "images": [
+        "https://api.fakestorejson.com/images/products/mac/air-13-m1/avatar.jpeg"
+      ],
+      "title": "MacBook Air 13-inch with M1 chip",
+      "rating": 3.68,
+      "category": "clothes",
+      "subcategory": "",
+      "itemsAvaliable": 2013,
+      "salesCount": 679,
+      "views": 17591
+    }
+  ],
+  "categories": [
+    "accessoires",
+    "furniture",
+    "clothes",
+    "shoes",
+    "techs",
+    "unclassified"
+  ],
+  "pricesRange": [0, 1613]
+}
