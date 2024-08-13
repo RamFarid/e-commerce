@@ -39,6 +39,7 @@ function Cart() {
           <Button variant='contained' fullWidth onClick={openCheckout}>
             Check out
           </Button>
+          <Checkout />
         </>
       ) : (
         <Empty
@@ -46,7 +47,6 @@ function Cart() {
           message={'Add items in the cart and complete progress from here'}
         />
       )}
-      <Checkout />
     </>
   )
 }

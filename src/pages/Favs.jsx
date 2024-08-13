@@ -60,7 +60,7 @@ function Favs() {
   }
 
   useEffect(() => {
-    if (!savedProducts) {
+    if (!savedProducts && isLoggedIn) {
       ;(async () => {
         try {
           setCurrentPage(1)
@@ -87,7 +87,7 @@ function Favs() {
       >
         {isLoading ? (
           <ProductsLoader />
-        ) : !savedProducts?.length && Array.isArray(savedProducts) ? (
+        ) : !savedProducts?.length || !Array.isArray(savedProducts) ? (
           <Empty
             title={'Empty items'}
             message={'Shopping and saved products to appear here'}

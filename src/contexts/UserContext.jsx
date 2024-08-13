@@ -42,6 +42,7 @@ function UserContextProvider({ children }) {
   }, [])
 
   useEffect(() => {
+    // eslint-disable-next-line no-extra-semi
     ;(async () => {
       setIsLoading(true)
       if (user?.token) {
