@@ -25,23 +25,23 @@ function OrderCard({ _id, products, fee, status, createdAt }) {
   const totalItems = products?.reduce((pre, current) => {
     return pre + current.quantity
   }, 0)
-  const totalPrice = (
-    products?.reduce((pre, current) => {
-      if (pre instanceof Number) return
-      console.log('first', pre)
-      console.log('Sec', current)
-      if (Number(current.product?.discount))
-        return (
-          pre +
-          getPriceAfterDiscount(
-            Number(current.product?.price),
-            Number(current.product?.discount)
-          ) *
-            current.quantity
-        )
-      return pre + Number(current.product?.price) * current.quantity
-    }, 0) + fee
-  ).toFixed(2)
+  const totalPrice = Number(
+    (
+      products?.reduce((pre, current) => {
+        if (pre instanceof Number) return
+        if (Number(current.product?.discount))
+          return (
+            pre +
+            getPriceAfterDiscount(
+              Number(current.product?.price),
+              Number(current.product?.discount)
+            ) *
+              current.quantity
+          )
+        return pre + Number(current.product?.price) * current.quantity
+      }, 0) + fee
+    ).toFixed(2)
+  )
   return (
     <Stack bgcolor={'background.paper'} my={2} component={Paper} p={2}>
       <Stack

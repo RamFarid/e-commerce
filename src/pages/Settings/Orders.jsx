@@ -27,6 +27,7 @@ function Orders() {
   })
 
   useEffect(() => {
+    // eslint-disable-next-line no-extra-semi
     ;(async () => {
       setIsLoading(true)
       await getOrders()
@@ -41,15 +42,17 @@ function Orders() {
         params: { status: currentTab, page: currentPages[currentTab] },
       })
       console.log('data', data)
+      console.log(currentTab)
       updateOrders({
         [currentTab]: {
-          data: data.orders[currentTab],
-          pages: data[currentTab].pages,
+          data: data.orders[currentTab].data,
+          pages: data.orders[currentTab].pages,
         },
       })
       setCurrentPages((pre) => ({ ...pre, [currentTab]: pre[currentTab] + 1 }))
     } catch (error) {
       toast.error(error.message)
+      console.log(error)
     }
   }
 
@@ -73,6 +76,7 @@ function Orders() {
         <PullToRefresh
           isPullable={false}
           onFetchMore={onFetchMore}
+          className='orders-pull-to-refresh'
           canFetchMore={orders[currentTab]?.pages / currentPages[currentTab]}
         >
           {orders[currentTab]?.data?.map((order) => (

@@ -21,32 +21,30 @@ function SingleOrder() {
     ...orders.cancelled.data,
   ].find((p) => p._id === orderID)
   const [targetOrder, setTargetOrder] = useState(preOrder)
-  console.log(orders)
 
   const totalItems = targetOrder?.products?.reduce((pre, current) => {
     return pre + current.quantity
   }, 0)
-  const totalPrice = (
-    targetOrder?.products?.reduce((pre, current) => {
-      if (pre instanceof Number) return
-      console.log('first', pre)
-      console.log('Sec', current)
-      if (Number(current.product?.discount))
-        return (
-          pre +
-          getPriceAfterDiscount(
-            Number(current.product?.price),
-            Number(current.product?.discount)
-          ) *
-            current.quantity
-        )
-      return pre + Number(current.product?.price) * current.quantity
-    }, 0) + targetOrder?.fee
-  ).toFixed(2)
-
-  console.log(targetOrder)
+  const totalPrice = Number(
+    (
+      targetOrder?.products?.reduce((pre, current) => {
+        if (pre instanceof Number) return
+        if (Number(current.product?.discount))
+          return (
+            pre +
+            getPriceAfterDiscount(
+              Number(current.product?.price),
+              Number(current.product?.discount)
+            ) *
+              current.quantity
+          )
+        return pre + Number(current.product?.price) * current.quantity
+      }, 0) + targetOrder?.fee
+    ).toFixed(2)
+  )
 
   useEffect(() => {
+    // eslint-disable-next-line no-extra-semi
     ;(async () => {
       setIsLoading(true)
       if (targetOrder?._id !== orderID || !preOrder) {
@@ -101,7 +99,6 @@ function SingleOrder() {
         {totalItems} items
       </Typography>
       {targetOrder.products.map(({ product, quantity }) => {
-        console.log(product)
         return (
           <DetailedOrderCard
             {...product}

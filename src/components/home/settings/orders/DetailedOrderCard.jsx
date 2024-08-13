@@ -46,7 +46,7 @@ function DetailedOrderCard({
           borderRadius: '6px',
           cursor: 'pointer',
         }}
-        image={thumbnail ? thumbnail : images[0]}
+        image={thumbnail ? thumbnail : images?.length ? images[0] : undefined}
         title={title}
       />
       <CardContent>

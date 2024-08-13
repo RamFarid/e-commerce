@@ -1,5 +1,4 @@
 import {
-  Container,
   CssBaseline,
   GlobalStyles,
   ThemeProvider,
@@ -81,6 +80,9 @@ function App() {
                 'input:-webkit-autofill': {
                   backgroundColor: 'transparent !important',
                   boxShadow: `0 0 0 100px ${theme.palette.background.default} inset !important`,
+                },
+                '.orders-pull-to-refresh': {
+                  minHeight: '100vh',
                 },
               }}
             />
